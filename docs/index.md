@@ -36,6 +36,12 @@
 </figure>
 
 
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/luucas-melo" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/luucas-melo.png" alt="drawing" style="width:100px;border-radius: 50%;"/>
+  </a>
+  <figcaption align="center">Lucas<br>Melo</figcaption>
+</figure>
 
 
 <br clear="all">
