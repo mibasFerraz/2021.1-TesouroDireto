@@ -28,6 +28,13 @@
   <figcaption align="center">João<br>Pedro</figcaption>
 </figure>
 
+<figure style="float:left;margin-right:16px;">
+  <a href="https://github.com/mibasFerraz" target="_blank" style="text-decoration: none">
+    <img src="https://avatars.githubusercontent.com/u/50213258?v=4" alt="drawing" style="width:100px;border-radius: 50%;"/>
+  </a>
+  <figcaption align="center">Lucas<br>Lima</figcaption>
+</figure>
+
 
 
 
