@@ -1,0 +1,7 @@
+site_name: Home
+
+theme: lux
+nav:
+  - Visão geral: index.md
+  - Apresentações:
+    - Apresentação 1: apresentacao1.md
