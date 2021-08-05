@@ -5,3 +5,6 @@ nav:
   - Visão geral: index.md
   - Apresentações:
     - Apresentação 1: apresentacao1.md
+  - Planejamento: 
+    - Cronograma: cronograma.md
+    - Heatmap: heatmap.md
