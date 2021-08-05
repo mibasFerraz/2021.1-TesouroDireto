@@ -5,12 +5,13 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 31.07.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
+| 05.08.2021 | 0.1 | Revisão | Lucas Melo |
 
 <br>
 ### Cronograma<br>
 
-Nós estamos nos baseanado nas datas de entregas das atividades que se encontra no plano de ensino da disciplina.
-O cronograma visa a atender tudo que será contido nos pontos de controle. Poderá sofrer algumas alteração caso for preciso.
+Nós estamos nos baseando nas datas de entregas das atividades que se encontra no plano de ensino da disciplina.
+O cronograma visa a atender tudo que será contido nos pontos de controle. Poderá sofrer algumas alteração caso seja necessário.
         
 <br>
 ### Cronograma das etapas<br>
