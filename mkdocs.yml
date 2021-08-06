@@ -1,6 +1,10 @@
-site_name: Home
+site_name: Tesouro Direto
 
-theme: lux
+theme: 
+  name: "material"
+  palette:
+    primary: "teal"
+
 nav:
   - Visão geral: index.md
   - Apresentações:
