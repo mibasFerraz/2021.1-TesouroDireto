@@ -13,17 +13,20 @@
 
 ### Sobre o Tesouro Direto
  <p align="justify">&emsp;&emsp;
-  O Tesouro Nacional é um aplicativo que têm como principal intuito permitir que o investidor utilize seu capital para comprar titulos públicos. O app ainda possui uma ferramenta, que permite o usuário simular aplicações com diferentes cenários. Caso a pessoa seja iniciante na área, a mesma vai informar o perfil que ela se enquadra como investidora, e partir daí o app vai sugerir alguns tipos de investimentos. O mesmo foi criado com a finalidade de captar recursos para custear a dívida pública. [1]
+  O Tesouro Nacional é um aplicativo que têm como principal intuito permitir que o investidor utilize seu capital para comprar titulos públicos. O app ainda possui uma ferramenta, que permite o usuário simular aplicações com diferentes cenários. Caso a pessoa seja iniciante na área, ele(a) vai informar o perfil que se enquadra como investidor(a), e partir daí o app vai sugerir alguns tipos de investimentos. O Tesouro Direto foi criado com a finalidade de captar recursos para custear a dívida pública. [1]
  </p>
 
 
 ### É confiável investir em algo do governo ?
+ <p align="justify">&emsp;&emsp;
 O Tesouro Direto é considerado o investimento mais seguro do país, pois os mesmos são garantidos por meio do Programa Tesouro Nacional. É como se a pessoa emprestasse dinheiro público que são retornados com juros quando a pessoa for retirar sua aplicação. [1]
+ </p>
+
 
 
 ### Quais são os tipos de investimento que posso realizar ?
  <p align="justify">&emsp;&emsp;
-    Primeiro ponto é o prazo, por quanto tempo você planeja deixar o mesmo investido, e qual é o risco que você está disposto a enfrentar (lembrando que em muitas vezes, risco e retorno são correlacionados). Possuindo esse pontos definidos, a pessoa poderá escolher entre:
+    Primeiro ponto é o prazo, por quanto tempo você planeja deixar seu capital investido, e qual é o risco que você está disposto a enfrentar (lembrando que em muitas vezes, risco e retorno são correlacionados). Possuindo esse pontos definidos, a pessoa poderá escolher entre:
     <ul>
       <li>Prefixados:  No momento que o indivíduo investe nessa opção, o mesmo saberá quanto irá retirar, desde que, retire no vecimento do título.</li>
       <li>Pós-fixados: A pessoa saberá quais serão os indicadores de remuneração, mas, só conhecerá o valor total, quando optar por resgatar o mesmo. Pois, os mesmos são atrelados a indicadores varíaveis.</li>
@@ -85,6 +88,7 @@ O Tesouro Direto é considerado o investimento mais seguro do país, pois os mes
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
 | 1.0    | 05/08 | Criação do Documento | Nilvan Peres |
+| 1.1    | 06/08 | Correção de alguns erros estéticos e de português | Nilvan Peres |
 
 ### Referências
 
