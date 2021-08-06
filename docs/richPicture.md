@@ -1,0 +1,28 @@
+# <center> Rich Picture
+
+### Histórico de versão<br>
+
+|Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 05.08.2021 | 0.1 | Adição da evolução dos rich pictures | Lucas Lima
+
+### Rich Picture
+<div align="justify"> 
+Uma rich picture é uma imagem rica em detalhes que é uma ferramenta muito eficiente para analisar problemas e expressar ideias.
+</div><br>
+
+### Rich Pictures individuais
+<div align="justify"> 
+Abaixo temos as rich pictures individuais feitas pelos integrantes do grupo:<br>
+<img width="500" height="500" src="../assets/richTesouroLucasLima.jpg">
+<img width="500" height="500" src="../assets/richTesouroDafne.png">
+<img width="500" height="500" src="../assets/richPeniel.png">
+<img width="500" height="500" src="../assets/richJoao.jpg">
+<img width="500" height="500" src="../assets/richJunin.png">
+
+</div><br>
+
+### Rich Picture coletivo<div align="justify"> 
+Aqui temos o rich picture que foi produzido por todos os integrantes simultaneamente:
+<img width="1000" height="1000" src="../assets/richGeral.png">
+</div><br>
