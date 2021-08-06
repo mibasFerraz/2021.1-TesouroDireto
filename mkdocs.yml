@@ -1,6 +1,6 @@
 site_name: Tesouro Direto
 
-theme: 
+theme:
   name: "material"
   palette:
     primary: "teal"
@@ -8,10 +8,11 @@ theme:
 nav:
   - Visão geral: index.md
   - Apresentações:
-    - Apresentação 1: apresentacao1.md
-  - Planejamento: 
-    - Cronograma: cronograma.md
-    - Heatmap: heatmap.md
-    - Metodologia: metodologia.md
-    - Ferramentas: ferramentas.md
-    - Rich Picture: richPicture.md
+      - Apresentação 1: apresentacao1.md
+  - Planejamento:
+      - Cronograma: cronograma.md
+      - Heatmap: heatmap.md
+      - Metodologia: metodologia.md
+      - Ferramentas: ferramentas.md
+  - Pré-rastreabilidade:
+      - RichPicture: richPicture.md
