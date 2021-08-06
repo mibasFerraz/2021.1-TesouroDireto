@@ -5,6 +5,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 05.08.2021 | 0.1 | Adição da evolução dos rich pictures | Lucas Lima
+| 06.08.2021 | 0.1 | Movendo a Rich Picture para um nav-link de Pré-Rastreabilidade | Nilvan Peres
 
 ### Rich Picture
 <div align="justify"> 
@@ -14,10 +15,15 @@ Uma rich picture é uma imagem rica em detalhes que é uma ferramenta muito efic
 ### Rich Pictures individuais
 <div align="justify"> 
 Abaixo temos as rich pictures individuais feitas pelos integrantes do grupo:<br>
+Lucas
 <img width="500" height="500" src="../assets/richTesouroLucasLima.jpg">
+<br>
 <img width="500" height="500" src="../assets/richTesouroDafne.png">
+<br>
 <img width="500" height="500" src="../assets/richPeniel.png">
+<br>
 <img width="500" height="500" src="../assets/richJoao.jpg">
+<br>
 <img width="500" height="500" src="../assets/richJunin.png">
 
 </div><br>
