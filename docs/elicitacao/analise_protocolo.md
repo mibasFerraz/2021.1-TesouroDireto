@@ -46,3 +46,19 @@ Essa atividade de interagir com usários para se elicitar requisitos não é uma
 <p align="justify">&emsp;
 Cabe ao analista de requisitos obter o engajamento necessários das fontes de requisitos e utilizar as técnicas mais adequadas para cada situação, para assim se obter a base para que as demais atividades do ciclo de desenvolvimento de software ocorra.</p>
 
+<p align="justify">&emsp;
+Existem diversas técnicas disponíveis; algumas implicam a interação direta com um stakeholder humano, enquanto outras se aplicam a outros tipos de fontes de informação.</p>
+
+<p align="justify">&emsp;
+          Para esse projeto estaremos utilizando 6 técnicas que são:
+
+  - Personas;
+  - Brainstorm;
+  - Storyboard;
+  - Entrevistas;
+  - Introspecção;
+  - Observação Participativa;</p>
+    
+<p align="justify">&emsp;
+  Como finalidade de melhor aplicação dessa técnica de elicitação nosso grupo estará definido um escopo de quais áreas do aplicativo seriam analisadas. Isso acontecerá na parte da modelagem isto quer dizer que logo após,estará presente nesta parte o que for definido pelo grupo.</p>
+</div>
