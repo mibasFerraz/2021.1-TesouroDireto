@@ -34,3 +34,15 @@
 
 - Peniel Zannoukou
 <div class="line"></div>
+
+## Escopo
+
+<div>
+    <p align="justify">&emsp;
+        O ponto mais crítico da engenharia de requisitos é a etapa de elicitação. Eessa etapa não se trata apenas de perguntar o que os grupos de usuários desejam, mas, sim, de investigar, instigar, questionar, descobrir, explorar, em resumo, extrair informações destes gruopos.
+<p align="justify">&emsp;
+Essa atividade de interagir com usários para se elicitar requisitos não é uma tarefa simples, pois os usuários e stakeholders nem sempre sabem explicar as suas tarefas, podem esquecer ou deixar informações importantes de lado ou podem simplesmente não estar disponíveis ou não quererem prestar informação.</p>
+
+<p align="justify">&emsp;
+Cabe ao analista de requisitos obter o engajamento necessários das fontes de requisitos e utilizar as técnicas mais adequadas para cada situação, para assim se obter a base para que as demais atividades do ciclo de desenvolvimento de software ocorra.</p>
+
