@@ -69,3 +69,15 @@ Existem diversas técnicas disponíveis; algumas implicam a interação direta c
     <p align="justify">&emsp;
         Nesta parte haverá os resultados com as personas do nosso projeto.Essa personas será uns integrantes do nosso grupo de projeto.</p>
 </div>
+
+## Requisitos Elicitados
+<div>
+      <p align="justify">&emsp;
+          A partir da análise da narração do uso do app Tesouro Direto estaremos elicitando alguns requisitos seguindo o nosso
+         <a href="https://requisitos-de-software.github.io/2021.1-TesouroDireto/cronograma/">cronograma</a>.</p> 
+</div>
+<div class="line"></div>
+
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
