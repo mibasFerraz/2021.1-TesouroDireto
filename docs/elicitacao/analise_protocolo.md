@@ -62,3 +62,10 @@ Existem diversas técnicas disponíveis; algumas implicam a interação direta c
 <p align="justify">&emsp;
   Como finalidade de melhor aplicação dessa técnica de elicitação nosso grupo estará definido um escopo de quais áreas do aplicativo seriam analisadas. Isso acontecerá na parte da modelagem isto quer dizer que logo após,estará presente nesta parte o que for definido pelo grupo.</p>
 </div>
+
+## Resultado
+
+<div>
+    <p align="justify">&emsp;
+        Nesta parte haverá os resultados com as personas do nosso projeto.Essa personas será uns integrantes do nosso grupo de projeto.</p>
+</div>
