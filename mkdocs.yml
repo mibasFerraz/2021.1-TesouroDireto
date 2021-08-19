@@ -18,3 +18,5 @@ nav:
       - RichPicture: richPicture.md
   - Elicitação:
       - Personas: personas.md
+      - Introspecção: introspeccao.md
+
