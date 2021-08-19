@@ -16,3 +16,5 @@ nav:
       - Ferramentas: ferramentas.md
   - Pré-rastreabilidade:
       - RichPicture: richPicture.md
+  - Elicitação:
+      - Personas: personas.md
