@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 19/08/2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Nilvan Peres |
+| 19/08/2021 |  0.2   | Revisão e correção da importação das imagens | João Pedro Chaves |
 
 
 
@@ -39,7 +40,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || Luana Alves Guimaraes Cartens|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="./assets/Persona1.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Luana Alves</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona1.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Luana Alves</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
 |<b>Idade:</b>|52 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>|Empresária|
@@ -55,7 +56,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || João Kleber Pereira da Silva |
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="./assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
 |<b>Idade:</b>|28 anos |
 |<b>Status:</b>| Anti-persona |
 |<b>Profissão:</b>| Engenheiro mecatrônico |
@@ -72,7 +73,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || Amanda Pereira Suzuki |
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="./assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
 |<b>Idade:</b>|24 anos |
 |<b>Status:</b>| Persona secundária |
 |<b>Profissão:</b>| Estudante |
@@ -88,7 +89,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || Emanoel Klenon Santillo|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="./assets/Persona4.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Emanoel Santillo</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona4.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Emanoel Santillo</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
 |<b>Idade:</b>|26 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>| Médico |
