@@ -6,6 +6,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 17.08.2021 | 0.1 | Criação do documento | João Pedro Chaves |
+| 19.08.2021 | 0.1 | Revisão | Dafne Moretti Moreira |
 
 ## Participantes
 
