@@ -1,13 +1,14 @@
 # <center> Questionário
 
 
-### Histórico de versão<br>
+## Histórico de versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 18.08.2021 | 0.1 | Criação do documento contendo introdução e resultados| Lucas Melo dos Santos|
-| 19.08.2021 | 0.1 | Revisão do documento| João Pedro|
-| 19.08.2021 | 0.2 | Adição de Requisitos identificados| Lucas Melo
+| 19.08.2021 | 0.1 | Revisão do documento| João Pedro Chaves |
+| 19.08.2021 | 0.2 | Adição de Requisitos identificados| Lucas Melo |
+| 19.08.2021 | 0.3 | Revisão e correção de referência | João Pedro Chaves | 
 
 
 ## Questionário
@@ -15,9 +16,8 @@
 <div align="justify"> 
     Pela facilidade de se obter dados optamos por fazer uma pesquisa através de um questionário, pois é uma técnica de elicitação de requisitoA gras simples e que possibilita a participação do público.  
     Fizemos um questionário que não era muito longo, porém fazia perguntas primordias para coletar dados importantes. A pesquisa obteve 102 respostas e nos ajudou a saber de que forma o aplicativo é utilizado, e um possível público que utiliza.
-<br><br>
 
-</div><br>
+</div>
 
 
 ## Resultados
@@ -112,4 +112,4 @@ Extrair requisitos passa a ideia de que se está garimpando a informação e é 
 
 ## Referências
 
-C. E. Vazquez and G. S. Sim ̃oes,Engenharia de Requisitos:software orientado ao neg ́ocio.    Brasport, 2016
+C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016
