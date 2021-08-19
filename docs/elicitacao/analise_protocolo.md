@@ -1,29 +1,12 @@
 # **Análise de Protocolo**
-## Histórico de Versão
-<table class="table table-striped border">
-    <thead>
-        <th>Data</th>
-        <th>Versão </th>
-        <th>Descrição</th>
-        <th>Autor(es)</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td> 17.08.2021 </td>
-            <td> 0.1 </td>
-            <td> Criação do documento </td>
-            <td> Peniel Zannoukou </td>
-        </tr>
-        <tr> 
-            <td> 19.08.2021 </td>
-            <td> 0.2 </td>
-            <td> Adiçaõ dos resultados </td>
-            <td> Peniel Zannoukou </td>
-        </tr>
-    </tbody>
-</table>
 
-<div class="line"></div>
+### Histórico de versão<br>
+
+|Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 17.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
+| 19.08.2021 | 0.2 | Adição dos resultados | Peniel Zannoukou |
+| 19.08.2021 | 0.3 | Modificação da tabela de versionamento | João Pedro Chaves |
 
 ## Metodologia
 <div>
@@ -45,7 +28,7 @@
 
 <div>
     <p align="justify">&emsp;
-        O ponto mais crítico da engenharia de requisitos é a etapa de elicitação. Eessa etapa não se trata apenas de perguntar o que os grupos de usuários desejam, mas, sim, de investigar, instigar, questionar, descobrir, explorar, em resumo, extrair informações destes gruopos.
+        O ponto mais crítico da engenharia de requisitos é a etapa de elicitação. E essa etapa não se trata apenas de perguntar o que os grupos de usuários desejam, mas, sim, de investigar, instigar, questionar, descobrir, explorar, em resumo, extrair informações destes gruopos.
 <p align="justify">&emsp;
 Essa atividade de interagir com usários para se elicitar requisitos não é uma tarefa simples, pois os usuários e stakeholders nem sempre sabem explicar as suas tarefas, podem esquecer ou deixar informações importantes de lado ou podem simplesmente não estar disponíveis ou não quererem prestar informação.</p>
 
