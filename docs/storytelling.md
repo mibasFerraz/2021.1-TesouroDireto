@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 17.08.2021 | 0.1 | Criação do documento | Dafne Moretti |
 | 17.08.2021 | 0.2 | Adição de introdução e metodologia | Dafne Moretti |
+| 19.08.2021 | 0.2 | Revisão | João Pedro Chaves |
 
 ### Participantes
 
