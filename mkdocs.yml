@@ -9,9 +9,6 @@ nav:
   - Visão geral: index.md
   - Apresentações:
       - Apresentação 1: apresentacao1.md
-  - Elicitação de Requisitos: 
-    - Tecnicas: 
-      - Questionario: elicitacao/tecnicas/questionario.md
   - Planejamento:
       - Cronograma: cronograma.md
       - Heatmap: heatmap.md
@@ -24,3 +21,6 @@ nav:
       - Introspecção: introspeccao.md
       - Storytelling: storytelling.md
       - Análise de Protocolo: elicitacao/analise_protocolo.md
+      - Tecnicas: 
+        - Introspecção: introspeccao.md
+        - Questionario: elicitacao/tecnicas/questionario.md

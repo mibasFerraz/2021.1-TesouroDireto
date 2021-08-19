@@ -6,7 +6,8 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 18.08.2021 | 0.1 | Criação do documento contendo introdução e resultados| Lucas Melo dos Santos|
-
+| 19.08.2021 | 0.1 | Revisão do documento| João Pedro|
+| 19.08.2021 | 0.2 | Adição de Requisitos identificados| Lucas Melo
 
 
 ## Questionário
@@ -90,6 +91,25 @@ Os resultados foram importantes para ajudar a identificar o público que utiliza
 
 <p> A grande maioria, representando 85,3% dos entrevistados, não conhecia as funcionalidades citadas<p>
 
+
+
 </div>
 <br>
 
+
+## Requisitos
+<div align="justify"> 
+Extrair requisitos passa a ideia de que se está garimpando a informação e é um processo investigativo. Através de uma pesquisa é possível obter informações importantes, e para ter um número satisfatório de dados é importante evitar questões complexas ou longas. Através dos resultados obtidos com o questionário foi possível identificar a funcionalidade mais utilizada, a impressão sobre o aplicativo e o conhecimento sobre a existência das funcionalidades do Tesouro Direto. 
+
+</div>
+
+|Número | Autor(es)|
+| -- | -- |
+| 1|  O usuário deve poder investir o seu dinheiro para que seu dinheiro tenha um certo rendimento |
+| 2 | O usuário deve poder simular um investimento para atingir suas metas|
+| 3 | O usuário deve poder visualizar seu extrato para acompanhar seu rendimento| 
+| 4 | O aplicativo deve ser simples de usar, para que os usuários utilizem suas funcionalidades| 
+
+## Referências
+
+C. E. Vazquez and G. S. Sim ̃oes,Engenharia de Requisitos:software orientado ao neg ́ocio.    Brasport, 2016
