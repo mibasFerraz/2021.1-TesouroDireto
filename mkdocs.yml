@@ -9,6 +9,8 @@ nav:
   - Visão geral: index.md
   - Apresentações:
       - Apresentação 1: apresentacao1.md
+  - Elicitação de Requisitos:
+    -  Tecnicas: elicitacao/tecnicas.md
   - Planejamento:
       - Cronograma: cronograma.md
       - Heatmap: heatmap.md
