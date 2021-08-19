@@ -1,4 +1,4 @@
-# <center> STORYBOARD
+# <center> Storytelling
 
 
 ### Histórico de versão<br>
@@ -6,24 +6,20 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 17.08.2021 | 0.1 | Criação do documento | Dafne Moretti |
+| 17.08.2021 | 0.2 | Adição de introdução e metodologia | Dafne Moretti |
 
 ### Participantes
 
 * Dafne Moretti
 
-<br><br>
-
 ### Introdução
-<div align="justify"> Falar do que se trata o documento.
-
-<br><br>
-
-</div><br>
+<div align="justify"> Storytelling é uma técnica de elicitação de requisitos em que se utiliza o recurso de contagem de histórias a fim de entreter e gerar conhecimento sobre as necessidades e funcionalidades do produto a partir de uma linguagem cotidiana.
+</div>
 
 
 ### Metodologia
-<div align="justify"> Explicar como foi feito o doc.
-</div><br>
+<div align="justify"> Foram construídas três histórias e a partir delas, alguns requisitos foram elicitados e apresentados abaixo.
+</div>
 
 ### Resultados
 #### Storyboard 1
@@ -56,3 +52,4 @@
 | A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. |
 
 ## Referências
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
