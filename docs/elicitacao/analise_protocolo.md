@@ -14,6 +14,12 @@
             <td> Criação do documento </td>
             <td> Peniel Zannoukou </td>
         </tr>
+        <tr> 
+            <td> 19.08.2021 </td>
+            <td> 0.2 </td>
+            <td> Adiçaõ dos resultados </td>
+            <td> Peniel Zannoukou </td>
+        </tr>
     </tbody>
 </table>
 
@@ -67,8 +73,68 @@ Existem diversas técnicas disponíveis; algumas implicam a interação direta c
 
 <div>
     <p align="justify">&emsp;
-        Nesta parte haverá os resultados com as personas do nosso projeto.Essa personas será uns integrantes do nosso grupo de projeto.</p>
+        Nesta parte haverá os resultados com as personas do nosso projeto.Essa personas será uns integrantes do nosso grupo de projeto. Porém encontra-se abaixo uma análise dos resultado esperado.</p>
 </div>
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>ID</th>
+        <th>Descrição</th>
+        <th>Forma de Requisito</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1 </td>
+            <td> O aplicativo deve permitir que o investidor utilize seu capital para comprar titulos públicos. </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>2 </td>
+            <td> O aplicativo deve possuir uma ferramenta, que permite o usuário simular aplicações com diferentes cenários.</td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>3 </td>
+            <td> O aplicativo deveria auxiliar o investidor a informa seu perfil. </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>4 </td>
+            <td> O aplicativo deveria informar ao usuário(investidor) os tipos de investimento. </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>5 </td>
+            <td> O aplicativo deve garantir a segurança dos dados do usuário(investidor). </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>6 </td>
+            <td> O aplicativo deve ter algumas funcionalidades tais como: investir,resgatar,simular,
+            visualizar sua posição </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>7 </td>
+            <td> O aplicativo deve auxiliar o investidor a escolher o titulo. </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>8 </td>
+            <td> O aplicativo deve permitir a comunicação entre o Banco Central e o Governo. </td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>9 </td>
+            <td> Qualquer pessoa poderá ter acesso ao dados do investidor? Não. Segurança dos dados.</td>
+            <td> Requisito Funcional </td>
+        </tr>
+        <tr>
+            <td>10 </td>
+            <td> O aplicativo deve ser intuitivo. </td>
+            <td> Requisito Não Funcional </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Requisitos Elicitados
 <div>
