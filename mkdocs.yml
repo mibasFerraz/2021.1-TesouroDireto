@@ -18,9 +18,7 @@ nav:
       - RichPicture: richPicture.md
   - Elicitação:
       - Personas: personas.md
-      - Introspecção: introspeccao.md
       - Storytelling: storytelling.md
+      - Introspecção: introspeccao.md
+      - Questionario: elicitacao/tecnicas/questionario.md
       - Análise de Protocolo: elicitacao/analise_protocolo.md
-      - Tecnicas: 
-        - Introspecção: introspeccao.md
-        - Questionario: elicitacao/tecnicas/questionario.md
