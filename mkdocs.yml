@@ -19,4 +19,5 @@ nav:
   - Elicitação:
       - Personas: personas.md
       - Introspecção: introspeccao.md
-
+      - Storytelling: storytelling.md
+      - Análise de Protocolo: elicitacao/analise_protocolo.md
