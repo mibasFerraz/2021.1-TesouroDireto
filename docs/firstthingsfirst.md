@@ -1,13 +1,14 @@
 # <center> TEMPLATE
 
 
-### Histórico de versão<br>
+## Histórico de versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 20.08.2021 | 0.1 | Criação do documento | João Pedro Chaves |
+| 20.08.2021 | 0.2 | Adição da metodologia | João Pedro Chaves |
 
-### Participantes
+## Participantes
 
 * João Pedro Chaves
 * Dafne Moretti
@@ -16,13 +17,35 @@
 * Peniel Zannoukou
 * Nilvan Peres
 
-<br><br>
 
-### Metodologia
+## Metodologia
 <div align="justify"> 
-</div><br>
+A técnica de priorização de requisitos First Things First pode ser dividida nos seguintes passos:
+<br>
+<br><b>PASSO 1:</b><br>
+	Listar os requisitos em uma planilha.
+<br>
+<br><b>PASSO 2:</b><br>
+    Avalie de 1 a 9 o benefício relativo proporcionado pelo requisito ao cliente ou negócio.
+<br>
+<br><b>PASSO 3:</b><br>
+    Avalie de 1 a 9 a penalidade que o negócio sofreria com a não implementação do recurso.
+<br>
+<br><b>PASSO 4:</b><br>
+    O valor total de cada recurso é a soma do benefício relativo multiplicado pelo seu peso e a penalidade relativa multiplicada pelo seu peso.
+<br>
+<br><b>PASSO 5:</b><br>
+    Estime de 1 a 9 o custo relativo da implementação do recurso.
+<br>
+<br><b>PASSO 6:</b><br>
+    Estime de 1 a 9 o risco relativo à implementação de cada requisito.
+<br>
+<br><b>PASSO 7:</b><br>
+	Calcule a prioridade de cada requisito utilizando a seguinte fórmula:
+	<br><b>valor % / (custo % * pesos do custo + riscos % * peso do risco)</b>
+</div>
 
-### Resultados
+## Resultados
 <div align="justify">
 
 Os resultados obtidos pela aplicação da técnica estão separados por membro da equipe e a planilha pode ser acessada pelo seguinte link:
