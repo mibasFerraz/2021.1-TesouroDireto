@@ -16,6 +16,7 @@ nav:
       - Ferramentas: ferramentas.md
   - Pré-rastreabilidade:
       - RichPicture: richPicture.md
+      - 5w2h: 5w2h.md
   - Elicitação:
       - Personas: personas.md
       - Storytelling: storytelling.md
@@ -23,4 +24,3 @@ nav:
       - Observação Participativa: observacao_participativa.md
       - Questionario: elicitacao/tecnicas/questionario.md
       - Análise de Protocolo: elicitacao/analise_protocolo.md
-
