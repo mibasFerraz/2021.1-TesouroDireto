@@ -19,7 +19,7 @@
 
 ### É confiável investir em algo do governo ?
  <p align="justify">&emsp;&emsp;
-O Tesouro Direto é considerado o investimento mais seguro do país, pois os mesmos são garantidos por meio do Programa Tesouro Nacional. É como se a pessoa emprestasse dinheiro público que são retornados com juros quando a pessoa for retirar sua aplicação. [1]
+O Tesouro Direto é considerado o investimento mais seguro do país, pois os mesmos são garantidos por meio do Programa Tesouro Nacional. É como se a pessoa emprestasse dinheiro ao governo, que são retornados com juros quando a pessoa optar por resgatar o valor. [1]
  </p>
 
 
