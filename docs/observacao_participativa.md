@@ -3,6 +3,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 19.08.2021 | 0.1 | Criação do documento | Lucas Ferraz |
+| 20.08.2021 | 0.1 | Padronização das referências| Lucas Melo
 
 ### Metodologia
 A observação participativa é uma técnica usada para elicitar requisitos, e a principal tarefa consiste em o engenheiro de requisitos passar a agir como um determinado usuário para observar, entender e documentar suas necessidades e funcionalidades.
@@ -44,4 +45,4 @@ O participante Lucas Ferraz fez o cadastro e passou a ser usuário do Tesouro Di
 |  RF27  |  O usuário deve poder ver as informações sobre o app  |
 
 ## Referências
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

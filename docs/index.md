@@ -85,12 +85,14 @@ O Tesouro Direto é considerado o investimento mais seguro do país, pois os mes
 
 ### Versionamento
 
-| Versão | Data  | Descrição            | Autor(es)       |
+| Data | Versão  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
-| 1.0    | 05/08 | Criação do Documento | Nilvan Peres |
-| 1.1    | 06/08 | Correção de alguns erros estéticos e de português | Nilvan Peres |
+| 05/08    | 0.1 | Criação do Documento | Nilvan Peres |
+| 06/08   | 0.2 | Correção de alguns erros estéticos e de português | Nilvan Peres |
+| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo
 
 ### Referências
 
-<p style="text-align: justify; text-indent: 20px">[1] – TESOURODIRETO.COM.BR. Disponível em: <a href="https://www.tesourodireto.com.br/conheca/conheca-o-tesouro-direto.htm" target="_blank">Conheça o Tesouro Direto</a>. Acesso em: 5 de julho de 2021.</p>
-<p style="text-align: justify; text-indent: 20px">[2] – INFOMONEY.COM.BR. Disponível em: <a href="https://www.infomoney.com.br/guias/tesouro-direto/" target="_blank">Guia tesouro direto</a>. Acesso em: 5 de julho de 2021.</p>
+> [1] – TESOURODIRETO.COM.BR. Disponível em: <a href="https://www.tesourodireto.com.br/conheca/conheca-o-tesouro-direto.htm" target="_blank">Conheça o Tesouro Direto</a>. Acesso em: 5 de julho de 2021.
+
+> [2] – INFOMONEY.COM.BR. Disponível em: <a href="https://www.infomoney.com.br/guias/tesouro-direto/" target="_blank">Guia tesouro direto</a>. Acesso em: 5 de julho de 2021.

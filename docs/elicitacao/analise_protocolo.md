@@ -7,7 +7,7 @@
 | 17.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
 | 19.08.2021 | 0.2 | Adição dos resultados | Peniel Zannoukou |
 | 19.08.2021 | 0.3 | Modificação da tabela de versionamento | João Pedro Chaves |
-
+| 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
 ## Metodologia
 <div>
      <p align="justify">&emsp;
@@ -129,4 +129,4 @@ Existem diversas técnicas disponíveis; algumas implicam a interação direta c
 
 
 ## Referências
-- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

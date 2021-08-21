@@ -8,6 +8,7 @@
 | 17.08.2021 | 0.1 | Criação do documento | Dafne Moretti |
 | 17.08.2021 | 0.2 | Adição de introdução e metodologia | Dafne Moretti |
 | 19.08.2021 | 0.2 | Revisão | João Pedro Chaves |
+| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo
 
 ### Participantes
 
@@ -53,4 +54,4 @@
 | A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. |
 
 ## Referências
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

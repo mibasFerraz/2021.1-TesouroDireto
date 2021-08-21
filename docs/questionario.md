@@ -9,7 +9,7 @@
 | 19.08.2021 | 0.1 | Revisão do documento| João Pedro Chaves |
 | 19.08.2021 | 0.2 | Adição de Requisitos identificados| Lucas Melo |
 | 19.08.2021 | 0.3 | Revisão e correção de referência | João Pedro Chaves | 
-
+| 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
 
 ## Questionário
 
@@ -112,4 +112,4 @@ Extrair requisitos passa a ideia de que se está garimpando a informação e é 
 
 ## Referências
 
-C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016
+> [1] - C. E. Vazquez and G. S. Simões,Engenharia de Requisitos:software orientado ao negócio.    Brasport, 2016

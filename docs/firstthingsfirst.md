@@ -8,7 +8,7 @@
 | 20.08.2021 | 0.1 | Criação do documento | João Pedro Chaves |
 | 20.08.2021 | 0.2 | Adição da metodologia | João Pedro Chaves |
 | 20.08.2021 | 0.3 | Revisão do documento | Dafne Moretti Moreira |
-
+| 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
 ## Participantes
 
 * João Pedro Chaves
@@ -69,4 +69,4 @@ Os resultados obtidos pela aplicação da técnica estão separados por membro d
 <iframe width="1057" height="691" seamless frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1gt11TxQvmnW1e91841pZodvHWX2I_xqmCw_RekTwrltR77-qFJsRCXjuxebVbtwpc7017cnEBVKr/pubhtml?gid=104079362&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br>
 
 ## Referências
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

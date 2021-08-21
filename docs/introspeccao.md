@@ -37,4 +37,4 @@
 | 14 | O usuário poderá selecionar investir após a simulação para que a simulação seja adicionada ao carrinho |
 
 ## Referências
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

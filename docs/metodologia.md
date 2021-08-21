@@ -6,6 +6,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 05.08.2021 | 0.1 | Adição da descrição das metodologias | Lucas Melo
+| 20.08.2021 | 0.2 | Padronização das referências| Lucas Melo
 
 
 
@@ -28,7 +29,6 @@ Scrum é um framework que ajuda pessoas, equipes e organizações a gerar valor 
 
 
 ## Referências
+> [1] – scrumguides.org Disponível em: <a href="https://scrumguides.org/scrum-guide.html" target="_blank">Scrum</a>. Acesso em: 5 de julho de 2021.
 
-<p style="text-align: justify; text-indent: 20px">[1] – scrumguides.org Disponível em: <a href="https://scrumguides.org/scrum-guide.html" target="_blank">Scrum</a>. Acesso em: 5 de julho de 2021.</p>
-
-<p style="text-align: justify; text-indent: 20px">[2] – rockcontent.com Disponível em: <a href="https://rockcontent.com/br/blog/kanban/" target="_blank">Kanban</a>. Acesso em: 5 de julho de 2021.</p>
+> [2] – rockcontent.com Disponível em: <a href="https://rockcontent.com/br/blog/kanban/" target="_blank">Kanban</a>. Acesso em: 5 de julho de 2021.

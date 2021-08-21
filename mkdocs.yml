@@ -19,11 +19,14 @@ nav:
       - 5w2h: 5w2h.md
   - Elicitação:
       - Personas: personas.md
-      - Storytelling: storytelling.md
-      - Introspecção: introspeccao.md
-      - Observação Participativa: observacao_participativa.md
-      - Questionario: questionario.md
-      - Análise de Protocolo: elicitacao/analise_protocolo.md
-      - First Things First: firstthingsfirst.md
-      - Análise de Discurso: analisediscurso.md
+      - Técnicas:
+        - Storytelling: storytelling.md
+        - Introspecção: introspeccao.md
+        - Observação Participativa: observacao_participativa.md
+        - Questionario: elicitacao/tecnicas/questionario.md
+        - Análise de Protocolo: elicitacao/analise_protocolo.md
+				- Análise de Discurso: analisediscurso.md
+      - Priorização de requisitos: 
+        - First Things First: firstthingsfirst.md
+        - MoSCoW: elicitacao/moscow.md
 
