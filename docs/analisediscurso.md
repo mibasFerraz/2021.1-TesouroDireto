@@ -209,4 +209,4 @@
 | O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos |
 
 ## Referências
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

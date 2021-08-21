@@ -5,7 +5,7 @@
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 20.08.2020 | 0.1 | Criação do documento | Lucas Melo, Dafne, Lucas Lima<br>Dafne Moretti|
+| 20.08.2021 | 0.1 | Criação do documento | Lucas Melo, Dafne, Lucas Lima<br>Dafne Moretti|
 
 ### Participantes
 
