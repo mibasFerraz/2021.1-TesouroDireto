@@ -107,10 +107,11 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :------: | :-------: | :--------------:  |
-| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos. | Requisito Não Funcional |
-| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos | Requisito Funcional |
-| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta . | Requisito Funcional |
+| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos | Requisito Não Funcional |
+| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos para cotemplar os diferentes perfis de investidores | Requisito Funcional |
+| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta  | Requisito Funcional |
 | PRS03 | O aplicativo deve ter uma sessão para simulação de capital, para proporcionar mais segurança a pessoas "novas" no assunto. | Requisito Funcional |
+| PRS04 | O aplicativo deve ter assegurar a segurança dos dados de seus usuários | Requisito não funcional |
 
 
 ## Referências
