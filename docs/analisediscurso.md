@@ -75,10 +75,6 @@
             <td>Lucas Melo</td>
             <td>Concordo.</td>
         </tr>
-        <tr>
-            <td>Lucas Melo </td>
-            <td>E Dafne, Você sabia que precisa ter uma conta na corretora para utilizar o tesouro direto?</td>
-        </tr>
     </tbody>
     </table>
 </div>
@@ -110,7 +106,7 @@
         </tr>
         <tr>
             <td>Lucas Melo</td>
-            <td> Quando você cria uma conta no tesouro direto, aparecem todas as contas na corretora que você tem atrelado ao seu cpf</td>
+            <td> Quando você cria uma conta no tesouro direto, aparecem todas as contas na corretora que você tem atreladas ao seu cpf</td>
         </tr>
         <tr>
             <td>Lucas Lima</td>
@@ -203,7 +199,14 @@
 </div>
 <br>
 
-
+### Requisitos elicitados a partir da Análise de Discurso
+| Requisitos elicitados |
+|:--|
+| O aplicativo deve garantir a segurança dos dados do usuário | 
+| O aplicativo deve poder simular um investimento antes do cadastro do usuário |
+| O usuário deve ser capaz de se cadastrar independente da corretora |
+| O usuário deve poder visualizar todas as corretores que ele tem ligadas ao seu cpf ao criar uma conta no tesouro direto  |
+| O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos |
 
 ## Referências
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
