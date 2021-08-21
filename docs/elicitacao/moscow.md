@@ -6,23 +6,22 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 20.08.2021 | 0.1 | Criação do documento | Lucas Melo, Dafne, Lucas Lima<br>Dafne Moretti|
+| 21.08.2021 | 0.2 | Correção item 18 tabela | Nilvan Peres |
 
 ### Participantes
 
 * Lucas Melo 
 * Dafne Moretti
 * Lucas Lima
-
-<br><br>
-
-
 ### Metodologia
-<div align="justify"> 
-MoSCoW é  um método que auxilia na determinação de um sistema de prioridades. Essa técnica está ligada às metodologias ágeis e define a importância e importância dos requisitos de um sistema ou projeto.
+
+<p align="justify">&emsp;
+  MoSCoW é  um método que auxilia na determinação de um sistema de prioridades. Essa técnica está ligada às metodologias ágeis e define a importância e importância dos requisitos de um sistema ou projeto.
 O nome dessa técnica é dada devido as possíveis classificações de prioridade, sendo elas:
+</p>
 
 
-</div><br>
+
 
 * Must: tarefas que vão agregar valor ao produto final e são indispensáveis;
 * Should: os requisitos que recebem essa prioridade são aqueles que são importantes mas não são vitais para o sistema;
@@ -50,7 +49,7 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 | RF15 | O usuário poderá selecionar investir após a simulação para que a simulação seja adicionada ao carrinho |  Introspecção | Should |
 | RNF16 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos. | Elicitação de Personas | Must |
 | RNF17 | A pessoa física usuária do aplicativo deve poder utilizar o aplicativo dos mais variados lugares, precisando apenas de internet. | Storytelling | Must |
-|| RF18]A pessoa física usuária do aplicativo deve ser capaz de comparar os títulos a fim de decidir o melhor título público para sua situação. | Storytelling | Must |
+|RF18 | A pessoa física usuária do aplicativo deve ser capaz de comparar os títulos a fim de decidir o melhor título público para sua situação. | Storytelling | Must |
 | RF19|  A pessoa física usuária do aplicativo deve visualizar estatisticamente sua rentabilidade líquida. | Storytelling | Could|
 | RF20 | A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. | Storytelling e observação participativa | Must |
 | RF21 | O aplicativo deve fornecer diferentes opções de investimentos, para satisfazer diferentes perfis de investidores | Elicitação de Personas | Must |
