@@ -16,6 +16,7 @@ nav:
       - Ferramentas: ferramentas.md
   - Pré-rastreabilidade:
       - RichPicture: richPicture.md
+      - 5w2h: 5w2h.md
   - Elicitação:
       - Personas: personas.md
       - Storytelling: storytelling.md
@@ -24,4 +25,3 @@ nav:
       - Questionario: elicitacao/tecnicas/questionario.md
       - Análise de Protocolo: elicitacao/analise_protocolo.md
       - First Things First: firstthingsfirst.md
-
