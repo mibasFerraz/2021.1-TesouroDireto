@@ -1,4 +1,4 @@
-# <center> TEMPLATE
+# <center> First Things First
 
 
 ## Histórico de versão<br>
@@ -7,7 +7,7 @@
 | -- | -- | -- | -- |
 | 20.08.2021 | 0.1 | Criação do documento | João Pedro Chaves |
 | 20.08.2021 | 0.2 | Adição da metodologia | João Pedro Chaves |
-| 20.08.2021 | 0.3 | Revisão do documento | Dafne Moretti Moreira |
+| 20.08.2021 | 0.3 | Revisão do documento | Dafne Moretti Moreira, Lucas Melo |
 | 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
 ## Participantes
 

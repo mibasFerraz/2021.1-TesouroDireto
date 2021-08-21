@@ -5,7 +5,7 @@
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 20.08.2020 | 0.1 | Criação do documento | Lucas Melom Dafne, Lucas Lima<br>Dafne Moretti|
+| 20.08.2020 | 0.1 | Criação do documento | Lucas Melo, Dafne, Lucas Lima<br>Dafne Moretti|
 
 ### Participantes
 
@@ -95,4 +95,4 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 
 ## Referências
 
-> Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em <a href=https://www.voitto.com.br/blog/artigo/metodo-moscow target="_blank">https://www.voitto.com.br/blog/artigo/metodo-moscow</a>. Acesso em 20 de ago. 2021
+> [1] - Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em <a href=https://www.voitto.com.br/blog/artigo/metodo-moscow target="_blank">https://www.voitto.com.br/blog/artigo/metodo-moscow</a>. Acesso em 20 de ago. 2021
