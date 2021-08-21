@@ -9,12 +9,12 @@
 | 19.08.2021 | 0.1 | Revisão do documento| João Pedro Chaves |
 | 19.08.2021 | 0.2 | Adição de Requisitos identificados| Lucas Melo |
 | 19.08.2021 | 0.3 | Revisão e correção de referência | João Pedro Chaves | 
-| 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
+| 20.08.2021 | 0.4 | Padronização das referências e correção de erro de digitação| Lucas Melo
 
 ## Questionário
 
 <div align="justify"> 
-    Pela facilidade de se obter dados optamos por fazer uma pesquisa através de um questionário, pois é uma técnica de elicitação de requisitoA gras simples e que possibilita a participação do público.  
+    Pela facilidade de se obter dados optamos por fazer uma pesquisa através de um questionário, pois é uma técnica de elicitação de requisito simples e que possibilita a participação do público.  
     Fizemos um questionário que não era muito longo, porém fazia perguntas primordias para coletar dados importantes. A pesquisa obteve 102 respostas e nos ajudou a saber de que forma o aplicativo é utilizado, e um possível público que utiliza.
 
 </div>
