@@ -8,20 +8,24 @@
 | 17.08.2021 | 0.1 | Criação do documento | Dafne Moretti |
 | 17.08.2021 | 0.2 | Adição de introdução e metodologia | Dafne Moretti |
 | 19.08.2021 | 0.2 | Revisão | João Pedro Chaves |
-| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo
+| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo |
+| 21.08.2021 | 0.4 | Adição da classificação dos requisitos, padronização parágrafos | Nilvan Peres |
 
 ### Participantes
 
 * Dafne Moretti
 
 ### Introdução
-<div align="justify"> Storytelling é uma técnica de elicitação de requisitos em que se utiliza o recurso de contagem de histórias a fim de entreter e gerar conhecimento sobre as necessidades e funcionalidades do produto a partir de uma linguagem cotidiana.
-</div>
+<p align="justify">&emsp;&emsp;
+  Storytelling é uma técnica de elicitação de requisitos em que se utiliza o recurso de contagem de histórias a fim de entreter e gerar conhecimento sobre as necessidades e funcionalidades do produto a partir de uma linguagem cotidiana.
+</p>
+
 
 
 ### Metodologia
-<div align="justify"> Foram construídas três histórias e a partir delas, alguns requisitos foram elicitados e apresentados abaixo.
-</div>
+<p align="justify">&emsp;&emsp;
+  Foram construídas três histórias e a partir delas, alguns requisitos foram elicitados e apresentados abaixo.
+</p>
 
 ### Resultados
 #### Storyboard 1
@@ -45,13 +49,13 @@
 
 #### Requisitos elicitados
 
-| Requisitos elicitados |
-|:--:|
-| A pessoa física usuária do aplicativo deve poder utilizar o aplicativo dos mais variados lugares, precisando apenas de internet. | 
-| A pessoa física usuária do aplicativo deve conseguir simular seus investimentos.  |
-| A pessoa física usuária do aplicativo deve ser capaz de comparar os títulos a fim de decidir o melhor título público para sua situação. |
-| A pessoa física usuária do aplicativo deve visualizar estatisticamente sua rentabilidade líquida. |
-| A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. |
+| ID LOCAL| Requisitos elicitados | Tipo de requisito |
+|:--:|:--:|:--:|
+| ST01| A pessoa física usuária do aplicativo deve poder utilizar o aplicativo dos mais variados lugares, precisando apenas de internet. | RNF |
+|ST02| A pessoa física usuária do aplicativo deve conseguir simular seus investimentos.  | RF |
+|ST03| A pessoa física usuária do aplicativo deve ser capaz de comparar os títulos a fim de decidir o melhor título público para sua situação. | RF |
+|ST04| A pessoa física usuária do aplicativo deve visualizar estatisticamente sua rentabilidade líquida. | RF |
+|ST05| A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. | RF |
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

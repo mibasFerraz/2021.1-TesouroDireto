@@ -190,13 +190,13 @@
 <br>
 
 ### Requisitos elicitados a partir da Análise de Discurso
-| Requisitos elicitados | ID |
-|:--|:--|
-| O aplicativo deve garantir a segurança dos dados do usuário | RNF01  |
-| O aplicativo deve poder simular um investimento antes do cadastro do usuário | RF01|
-| O usuário deve ser capaz de se cadastrar independente da corretora | RF02 |
-| O usuário deve poder visualizar todas as corretores que ele tem ligadas ao seu cpf ao criar uma conta no tesouro direto  | RNF02 |
-| O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos | RNF03 |
+| ID LOCAL| Requisitos elicitados  | Tipo de requisito |
+|:--|:--|:--|
+| AD01| O aplicativo deve garantir a segurança dos dados do usuário | RNF  |
+|AD02| O aplicativo deve poder simular um investimento antes do cadastro do usuário | RF|
+|AD03| O usuário deve ser capaz de se cadastrar independente da corretora | RF |
+|AD04| O usuário deve poder visualizar todas as corretores que ele tem ligadas ao seu cpf ao criar uma conta no tesouro direto  | RNF |
+|AD05| O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos | RNF |
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

@@ -5,7 +5,8 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 19/08/2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Nilvan Peres |
 | 19/08/2021 |  0.2   | Revisão e correção da importação das imagens | João Pedro Chaves |
-| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo
+| 20/08/2021 | 0.3 | Padronização das referências| Lucas Melo |
+| 21/08/2021 | 0.4 | Removendo referência duplicada e melhoria do objetivo | Nilvan Peres |
 
 
 
@@ -25,13 +26,13 @@
 
 ## 2. Objetivo
 <p align="justify">&emsp;&emsp;
-  A partir dos resultados obtidos busca-se criar um design que se adapte aos usuários reais do produto.
+  A partir dos resultados obtidos busca-se criar um produto que se adapte aos usuários reais do aplicativo, elicitando algumas métricas que podem ser levantas a partir de expectativas e requisitos do usuário.
 </p>
 
 
 ## 3. Resultados
 <p align="justify">&emsp;&emsp;
-A partir da métrica de observação foram coletados os seguintes dados para elaborar 4 personas.
+  A partir da métrica de observação, foram coletados os seguintes dados, que serviram na elaboração de 4 personas.
 </p>
 
 
@@ -98,7 +99,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 |<b>Habilidades:</b>| É o cirurgião plástico mais habilidoso do estado de GO, consegue achar a beleza que estava oculta nas pessoas |
 |<b>Tarefas:</b>| Durante o período comercial está realizando consultas ou procedimento estético, durante o tempo livre gosta de estudar possibilidades de investimento |
 |<b>Relacionamentos:</b>| Casado |
-|<b>Requisitos:</b>|Para Emanoel, o ponto principal de um aplicativo é se o mesmo é seguro, não gostar de sair colocando todos os seus dados pessoais para algo que não vai utilizar|
+|<b>Requisitos:</b>|Para Emanoel, o ponto principal de um aplicativo é se o mesmo é seguro, não gostar de sair colocando todos os seus dados pessoais para algo que não vai utilizar ou que parece não confiável|
 |<b>Expectativas:</b>| Por estar almejando sua própria clínica, ele deseja utilizar o app do Tesouro Direto para conseguir juntar mais capital. Entretanto, ele é uma pessoa ansiosa, e precisa entrar de tempo em tempo no app para saber como estão os rendimentos do seu capital alocado na renda variável|
 
 
@@ -107,11 +108,11 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :------: | :-------: | :--------------:  |
-| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos | Requisito Não Funcional |
-| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos para cotemplar os diferentes perfis de investidores | Requisito Funcional |
-| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta  | Requisito Funcional |
-| PRS03 | O aplicativo deve ter uma sessão para simulação de capital, para proporcionar mais segurança a pessoas "novas" no assunto. | Requisito Funcional |
-| PRS04 | O aplicativo deve ter assegurar a segurança dos dados de seus usuários | Requisito não funcional |
+| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos | RNF |
+| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos para cotemplar os diferentes perfis de investidores | RF |
+| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta  | RF |
+| PRS03 | O aplicativo deve ter uma sessão para simulação de capital, para proporcionar mais segurança a pessoas "novas" no assunto. | RF |
+| PRS04 | O aplicativo deve ter assegurar a segurança dos dados de seus usuários | RNF |
 
 
 ## Referências
@@ -121,5 +122,3 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 > [2] - Courage Catherine; Baxter Kath .Understanding Your Users. Originally published: 2005
  
 > [3] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
-
-> [4] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
