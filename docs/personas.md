@@ -16,10 +16,10 @@
 </p>
 
 <p align="justify">&emsp;&emsp;
-  Personas são essencias para coletar dados e descobrir possíveis traços em comum dos perfis de usuário, e é de suma importância que as personas elaboradas sejam criadas a partir de observações de usuários reais, para que o sistema desenvolvido se adapte a eles.(Barbosa e Silva, 2010)[2]
+  Personas são essencias para coletar dados e descobrir possíveis traços em comum dos perfis de usuário, e é de suma importância que as personas elaboradas sejam criadas a partir de observações de usuários reais, para que o sistema desenvolvido se adapte a eles.(Barbosa e Silva, 2010)[1] 
 </p>
 <p align="justify">&emsp;&emsp;
-  Para definir uma persona são necessários preencher os seguintes campos: Identidade, status, objetivos, habilidades, objetivos, tarefas, relacionamentos, requisitos, expectativas (Courage e Baxter, 2005)[3].
+  Para definir uma persona são necessários preencher os seguintes campos: Identidade, status, objetivos, habilidades, objetivos, tarefas, relacionamentos, requisitos, expectativas (Courage e Baxter, 2005)[2].
 </p>
 
 
@@ -40,7 +40,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || Luana Alves Guimaraes Cartens|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona1.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Luana Alves</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona1.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Luana Alves</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
 |<b>Idade:</b>|52 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>|Empresária|
@@ -56,7 +56,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || João Kleber Pereira da Silva |
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
 |<b>Idade:</b>|28 anos |
 |<b>Status:</b>| Anti-persona |
 |<b>Profissão:</b>| Engenheiro mecatrônico |
@@ -73,7 +73,7 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 || Amanda Pereira Suzuki |
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
 |<b>Idade:</b>|24 anos |
 |<b>Status:</b>| Persona secundária |
 |<b>Profissão:</b>| Estudante |
@@ -82,24 +82,24 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 |<b>Habilidades:</b>| Amanda é muito extrovertida, consegue cativar a maioria das pessoas quem tem contato. É muito sociável, adora sair com os amigos |
 |<b>Tarefas:</b>| Seu curso é integral, então durante a manhã e a tarde está nas aulas ou nas graminhas da faculdade. Seu hobby predileto é sair para comer|
 |<b>Relacionamentos:</b>| Solteira |
-|<b>Requisitos:</b>|Para Amanda, o ponto principal de aplicativo são as combinações das cores e tipografia das fontes, possui tick nervoso caso algo esteja desalinhado.
-|<b>Expectativas:</b>| Amanda ainda não tem muito dinheiro, mas sabe que é importante investir para conseguir sua independência financeira, então espera que a partir de simuações do Tesouro Direto comece a entender melhor sobre investimentos.|
+|<b>Requisitos:</b>|Para Amanda, o ponto principal de aplicativo são as combinações das cores e tipografia das fontes, possui tick nervoso caso algo esteja desalinhado
+|<b>Expectativas:</b>| Amanda ainda não tem muito dinheiro, mas sabe que é importante investir para conseguir sua independência financeira, então espera que a partir de simuações do Tesouro Direto comece a entender melhor sobre investimentos|
 
 ## 3.4. Persona 4
 
 || Emanoel Klenon Santillo|
 |--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona4.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Emanoel Santillo</p><p style="text-align: center">Fonte: This Person Does Not Exist [4]</p>|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona4.jpeg" width="200px"></p><p style="text-align: center">Figura 1: Foto de Emanoel Santillo</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
 |<b>Idade:</b>|26 anos |
 |<b>Status:</b>|Persona primária|
 |<b>Profissão:</b>| Médico |
 |<b>Escolaridade:</b>| Superior completo |
-|<b>Objetivos:</b>| Deseja ter uma coleção de carros clássicos e ter sua própria clínica de atendimento, possui um perfil moderado de investimentos.|
+|<b>Objetivos:</b>| Deseja ter uma coleção de carros clássicos e ter sua própria clínica de atendimento, possui um perfil moderado de investimentos|
 |<b>Habilidades:</b>| É o cirurgião plástico mais habilidoso do estado de GO, consegue achar a beleza que estava oculta nas pessoas |
 |<b>Tarefas:</b>| Durante o período comercial está realizando consultas ou procedimento estético, durante o tempo livre gosta de estudar possibilidades de investimento |
 |<b>Relacionamentos:</b>| Casado |
 |<b>Requisitos:</b>|Para Emanoel, o ponto principal de um aplicativo é se o mesmo é seguro, não gostar de sair colocando todos os seus dados pessoais para algo que não vai utilizar|
-|<b>Expectativas:</b>| Por estar almejando sua própria clínica, ele deseja utilizar o app do Tesouro Direto para conseguir juntar mais capital. Entretanto, ele é uma pessoa ansiosa, e precisa entrar de tempo em tempo no app para saber como estão os rendimentos do seu capital alocado na renda variável.|
+|<b>Expectativas:</b>| Por estar almejando sua própria clínica, ele deseja utilizar o app do Tesouro Direto para conseguir juntar mais capital. Entretanto, ele é uma pessoa ansiosa, e precisa entrar de tempo em tempo no app para saber como estão os rendimentos do seu capital alocado na renda variável|
 
 
 
@@ -107,14 +107,15 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 
 | ID LOCAL | Descrição | Tipo de Requisito |
 | :------: | :-------: | :--------------:  |
-| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos. | Requisito Não Funcional |
-| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos | Requisito Funcional |
-| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta . | Requisito Funcional |
+| PRS01 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos | Requisito Não Funcional |
+| PRS02 | O  aplicativo deve fornecer diferente opções de investimentos para cotemplar os diferentes perfis de investidores | Requisito Funcional |
+| PRS03 | O aplicativo deve ter uma sessão para acompanhemento de capital alocados, e de quantia disponível em conta  | Requisito Funcional |
 | PRS03 | O aplicativo deve ter uma sessão para simulação de capital, para proporcionar mais segurança a pessoas "novas" no assunto. | Requisito Funcional |
+| PRS04 | O aplicativo deve ter assegurar a segurança dos dados de seus usuários | Requisito não funcional |
 
 
 ## Referências
 
 <p align="justify">&emsp;&emsp; [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021. </p>
-
-<p align="justify">&emsp;&emsp; [4] <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.</p>
+<p align="justify">&emsp;&emsp; [2] Courage Catherine; Baxter Kath .Understanding Your Users. Originally published: 2005 </p>
+<p align="justify">&emsp;&emsp; [3] <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.</p>
