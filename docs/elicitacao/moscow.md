@@ -48,8 +48,8 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 | RF13 | O usuário poderá ver mais detalhes sobre os gráficos | Introspecção | Would |
 | RF14 | O usuário poderá alterar os parâmetros utilizados para montagem dos gráficos | Introspecção | Would |
 | RF15 | O usuário poderá selecionar investir após a simulação para que a simulação seja adicionada ao carrinho |  Introspecção | Should |
-| RNF16 Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos. | Elicitação de Personas | Must |
-| RNF17 A pessoa física usuária do aplicativo deve poder utilizar o aplicativo dos mais variados lugares, precisando apenas de internet. | Storytelling | Must |
+| RNF16 | Deve ter uma interface fácil e intuitiva, para que qualquer pessoa de qualquer idade consiga realizar investimentos. | Elicitação de Personas | Must |
+| RNF17 | A pessoa física usuária do aplicativo deve poder utilizar o aplicativo dos mais variados lugares, precisando apenas de internet. | Storytelling | Must |
 || RF18]A pessoa física usuária do aplicativo deve ser capaz de comparar os títulos a fim de decidir o melhor título público para sua situação. | Storytelling | Must |
 | RF19|  A pessoa física usuária do aplicativo deve visualizar estatisticamente sua rentabilidade líquida. | Storytelling | Could|
 | RF20 | A pessoa física usuária do aplicativo deve poder estabelecer sonhos e metas e analisar se está perto ou não de conseguí-las. | Storytelling e observação participativa | Must |

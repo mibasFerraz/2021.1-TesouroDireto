@@ -117,4 +117,9 @@ A partir da métrica de observação foram coletados os seguintes dados para ela
 ## Referências
 
 > [1] - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021. 
-> [4] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.</p>
+
+> [2] - Courage Catherine; Baxter Kath .Understanding Your Users. Originally published: 2005
+ 
+> [3] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
+
+> [4] - <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 07 de ago. de 2021.
