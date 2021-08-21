@@ -6,6 +6,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 20.08.2021 | 0.1 | Criação do documento | Dafne Moretti|
+| 21.08.2021 | 0.2 | Revisão do documento | Nilvan Peres |
 
 <br>
 
@@ -22,13 +23,14 @@
 
 
 ### Introdução
-<div align="justify"> Para a criação do documento de Análise de Discurso, realizou-se uma análise de conversação, que analisa um grupo em interação e socialização onde não são combinadas as pessoas que irão falar, dessa forma, a conversa surge naturalmente.
-
-</div>
+<p align="justify">&emsp;&emsp;
+    Para a criação do documento de Análise de Discurso, realizou-se uma análise de conversação, que analisa um grupo em interação e socialização onde não são combinadas as pessoas que irão falar, dessa forma, a conversa surge naturalmente.
+</p>
 
 ### Metodologia
-<div align="justify"> A fim de estimular a conversação e troca de ideias acerca do aplicativo do Tesouro Direto, os integrantes se reuniram para discutir e tomar nota das discussões sobre alguns temas e fazendo a elicitação dos requisitos a partir das falas.
-</div>
+<p align="justify">&emsp;&emsp;
+    A fim de estimular a conversação e troca de ideias acerca do aplicativo do Tesouro Direto, os integrantes se reuniram para discutir e tomar nota das discussões sobre alguns temas e fazendo a elicitação dos requisitos a partir das falas.
+</p>
 
 ### Resultados
 #### Tema: Segurança dos dados dos usuários no aplicativo Tesouro Direto
@@ -112,18 +114,6 @@
             <td>Lucas Lima</td>
             <td>Pois é, você pode ter mais de uma corretora no cpf tranquilo.</td>
         </tr>
-        <tr>
-            <td>Dafne</td>
-            <td>Não!</td>
-        </tr>
-        <tr>
-            <td>Peniel</td>
-            <td>Não! Porque um aplicativo precisa ter a segurança dos dados do investidor.</td>
-        </tr>
-        <tr>
-            <td>Lucas Melo</td>
-            <td>Concordo.</td>
-        </tr>
     </tbody>
     </table>
 </div>
@@ -200,13 +190,13 @@
 <br>
 
 ### Requisitos elicitados a partir da Análise de Discurso
-| Requisitos elicitados |
-|:--|
-| O aplicativo deve garantir a segurança dos dados do usuário | 
-| O aplicativo deve poder simular um investimento antes do cadastro do usuário |
-| O usuário deve ser capaz de se cadastrar independente da corretora |
-| O usuário deve poder visualizar todas as corretores que ele tem ligadas ao seu cpf ao criar uma conta no tesouro direto  |
-| O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos |
+| Requisitos elicitados | ID |
+|:--|:--|
+| O aplicativo deve garantir a segurança dos dados do usuário | RNF01  |
+| O aplicativo deve poder simular um investimento antes do cadastro do usuário | RF01|
+| O usuário deve ser capaz de se cadastrar independente da corretora | RF02 |
+| O usuário deve poder visualizar todas as corretores que ele tem ligadas ao seu cpf ao criar uma conta no tesouro direto  | RNF02 |
+| O usuário deve conseguir utilizar o aplicativo a partir de diferentes dispositivos | RNF03 |
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
