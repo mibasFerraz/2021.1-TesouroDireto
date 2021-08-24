@@ -4,7 +4,7 @@
 ## Histórico de versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
-| -- | -- | -- | -- |
+| :------: | :-------: | :--------------: |:--------------: |
 | 20.08.2021 | 0.1 | Criação do documento | João Pedro Chaves |
 | 20.08.2021 | 0.2 | Adição da metodologia | João Pedro Chaves |
 | 20.08.2021 | 0.3 | Revisão do documento | Dafne Moretti Moreira, Lucas Melo |
