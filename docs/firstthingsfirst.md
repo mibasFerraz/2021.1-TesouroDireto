@@ -9,6 +9,8 @@
 | 20.08.2021 | 0.2 | Adição da metodologia | João Pedro Chaves |
 | 20.08.2021 | 0.3 | Revisão do documento | Dafne Moretti Moreira, Lucas Melo |
 | 20.08.2021 | 0.4 | Padronização das referências| Lucas Melo
+| 25.08.2021 | 0.5 | Adição da planilha com requisitos ordenados por prioridade | João Pedro Chaves |
+
 ## Participantes
 
 * João Pedro Chaves
@@ -55,6 +57,10 @@ Os resultados obtidos pela aplicação da técnica estão separados por membro d
 
 [Link para acessar a planilha](https://docs.google.com/spreadsheets/d/1Ggmz9TD0Er0O1qVm6ENMaCGGib5mgLIeF2EbkVq2FmQ/edit?usp=sharing)
 
+### Planilha com requisitos ordenados por prioridade
+<iframe width="1057" height="691" seamless frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1gt11TxQvmnW1e91841pZodvHWX2I_xqmCw_RekTwrltR77-qFJsRCXjuxebVbtwpc7017cnEBVKr/pubhtml?gid=76001403&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+### Planilhas individuais
 
 <iframe width="1057" height="691" seamless frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1gt11TxQvmnW1e91841pZodvHWX2I_xqmCw_RekTwrltR77-qFJsRCXjuxebVbtwpc7017cnEBVKr/pubhtml?gid=49178529&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br>
 
