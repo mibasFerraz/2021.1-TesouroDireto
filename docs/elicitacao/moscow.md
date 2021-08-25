@@ -1,19 +1,19 @@
 # <center> MosCoW
 
 
-### Histórico de versão<br>
+## Histórico de versão<br>
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 20.08.2021 | 0.1 | Criação do documento | Lucas Melo, Dafne, Lucas Lima<br>Dafne Moretti|
 | 21.08.2021 | 0.2 | Correção item 18 tabela | Nilvan Peres |
 
-### Participantes
+## Participantes
 
 * Lucas Melo 
 * Dafne Moretti
 * Lucas Lima
-### Metodologia
+## Metodologia
 
 <p align="justify">&emsp;
   MoSCoW é  um método que auxilia na determinação de um sistema de prioridades. Essa técnica está ligada às metodologias ágeis e define a importância e importância dos requisitos de um sistema ou projeto.
@@ -29,7 +29,19 @@ O nome dessa técnica é dada devido as possíveis classificações de prioridad
 * Would/Want/Won't : requisitos menos críticos que possuem menor retorno sobre o investimento quando comparado a outros.
 
 
-### Resultados
+## Resultados
+
+### Proporções de Must, Should, Could e Would
+| Prioridade | Quantidade de Requisitos |
+| -- | -- |
+| Must | 27 |
+| Should | 10 |
+| Could | 6 |
+| Would | 9 |
+
+<p align = "center"><img src="../../assets/moscow.png" width="700">Figura 01 - Gráfico de pizza representando as proporções de requisitos classificados como Must, Should, Could e Would</p><br>
+
+### Lista de requisitos e suas prioridades
 |Identificação | Requisito | Técnica | Prioridade |
 | -- | -- | -- | -- |
 | RF01 | O usuário poderá simular investimento sem fazer login. | Introspecção | Could |
