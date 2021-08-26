@@ -435,3 +435,54 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C08 - Escolher Resgatar
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Escolher Resgatar</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>Poder ver dentre as opções o que deseja no app</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:Usuário logado no Tesouro Direto
+                pós-condição:Ver nas funcionalidade o ponto de resgatar.
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso a internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa as opções do app
+            3. O usuário seleciona o botão de funcionalidade
+            4. O usuário clicar no botão resgatar 
+            5. O usuário efetuará o resgate imformando seus dados cadastrado no sistema.
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>Fluxo Intuitivo</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
