@@ -179,3 +179,55 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C03 - Modificar Nome
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Modificar Nome</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>Modificar o nome dentro do app</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição: Usuário logado no Tesouro Direto
+                pós-condição:  Nome alterado
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso à internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa as configurações da conta
+            3. O usuário seleciona o campo nome e faz a alteração
+            4. O usuário salva a alteração ao clicar no botão "Save Changes"
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>
+            Nomes que são maiores que o tamanho configurado
+            </td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
