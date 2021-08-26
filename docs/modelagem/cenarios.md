@@ -741,3 +741,10 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+# Bibliografia
+Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
+    
+* SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
+* BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+* <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/cenarios/cenariosTotais/">Documento do cenario do grupo iFut</a>
