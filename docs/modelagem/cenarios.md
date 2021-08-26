@@ -231,3 +231,51 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C04 - Excluir conta
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Excluir conta</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>Excluir a conta cadastrada no app</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:Usuário logado no Tesouro Direto
+                pós-condição:Conta excluída e usuário redirecionado para a tela inicial
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso à internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa as configurações da conta
+            3. O usuário seleciona o botão de deletar conta
+            4. O usuário confirma o email
+            5. O usuário seleciona novamente o botão para confirmar</td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>Sem acesso a internet não será possivél realizar ação.</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            Email inválido Usuário fechar aplicativo antes de terminar a ação Internet parar de funcionar durante a ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
