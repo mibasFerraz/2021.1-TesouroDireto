@@ -279,3 +279,56 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C05 - Visualizar funcionalidade
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Visualizar funcionalidade</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>
+            Poder ver as opções que se encontra no app
+            </td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+            pré-condição: Usuário logado no Tesouro Direto
+            pós-condição: Ver opções das funcionalidades
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso à internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa as opções da conta
+            3. O usuário seleciona o botão de funcionalides 
+            4. O usuário clicar
+            5. O usuário verá as funcionalidades
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação</td>
+        </tr>
+    </tbody>
+</table>
+<br>
