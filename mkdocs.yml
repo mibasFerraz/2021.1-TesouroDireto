@@ -19,9 +19,8 @@ nav:
       - RichPicture: richPicture.md
       - 5w2h: 5w2h.md
   - Elicitação:
+      - Personas: personas.md
       - Técnicas:
-
-        - Personas: personas.md
         - Storytelling: storytelling.md
         - Introspecção: introspeccao.md
         - Observação Participativa: observacao_participativa.md
