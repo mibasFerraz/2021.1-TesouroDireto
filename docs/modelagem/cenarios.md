@@ -332,3 +332,54 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C06 - Escolher Simular
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Escolher Simular</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>Poder ver dentre as opções o que deseja no app</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:Usuário logado no Tesouro Direto
+                pós-condição:Ver opções de simulação
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso a internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa as opções do app
+            3. O usuário seleciona o botão de simular 
+            4. O usuário clicar
+            5. O usuário verá como fazer a simulação
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
