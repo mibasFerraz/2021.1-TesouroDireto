@@ -691,3 +691,53 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C13 - Alterar/Escolher a linguagem do app
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Alterar/Escolher a linguagem do app</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>O usuário alterara linguagem do app(Inglês, francês, espanhol,etc)</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:
+                pós-condição:
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Atores envolvidos</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Recursos envolvidos</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o Tesouro Direto
+            2. O usuário acessa a aba de configurações do App
+            3. O usuário seleciona a configuração desejada
+            4. O usuário seleciona a linguagem desejada
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>Fluxo intuitivo</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
