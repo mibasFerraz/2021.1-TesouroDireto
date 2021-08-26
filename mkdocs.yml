@@ -1,7 +1,10 @@
 site_name: Tesouro Direto
 
+site_favicon: ./assets/tesouro-direto-logo-withoutback.png
+
 theme:
   name: "material"
+  logo: 'assets/tesouro-direto-logo-withoutback.png'
   palette:
     primary: "teal"
 
@@ -34,4 +37,4 @@ nav:
         - MoSCoW: elicitacao/moscow.md
   - Modelagem:
       - Casos de Uso: casos_de_uso.md
-
+      - Especificação Suplementar: especificacaosuplementar.md
