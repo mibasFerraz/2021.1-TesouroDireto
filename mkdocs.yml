@@ -32,4 +32,6 @@ nav:
       - Priorização de requisitos: 
         - First Things First: firstthingsfirst.md
         - MoSCoW: elicitacao/moscow.md
+  - Modelagem:
+      - Casos de Uso: casos_de_uso.md
 
