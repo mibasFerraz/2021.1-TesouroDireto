@@ -537,3 +537,54 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C10 - Escolher Corretoras ou Banco
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Escolher Corretoras ou Banco</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>Poder ver dentre as opções o que deseja no app</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:Usuário logado no Tesouro Direto
+                pós-condição:Ver nas funcionalidade o ponto de investir.
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso a internet</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+            1. O usuário acessa o app Tesouro Direto Já sabendo sua corretos ou banco
+            2. O usuário acessa as opções do app
+            3. O usuário seleciona o botão de funcionalidade
+            4. O usuário clicar no botão da opção que deseja realizar.
+            5. O usuário escolher corretora.
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>Fluxo Intuitivo</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>
+            O usuário fechar o aplicativo antes de terminar a ação
+            A internet parar de funcionar no meio da ação
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
