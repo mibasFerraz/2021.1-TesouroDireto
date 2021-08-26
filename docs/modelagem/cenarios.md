@@ -126,3 +126,56 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
     </tbody>
 </table>
 <br>
+
+## C02 - Cadastrar usuário utilizando Google
+
+<table class="table table-striped border">
+    <thead>
+        <th>Título</th> 
+        <th>Cadastrar usuário utilizando Google</th> 
+    </thead>
+    <tbody>
+        <tr>
+            <td>Objetivo</td>
+            <td>
+                Criar perfil para o usuário no Plant Jammer utilizando email
+            </td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>pré-condição:Possuir email válido
+                pós-condição:É criado um perfil para o novo usuário
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Acesso à internet
+                App intalado</td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>
+             1. O usuário não cadastrado acessa o aplicativo do Tesouro Direto
+            2. O usuário não cadastrado seleciona seu objetivo no aplicativo (Simular,Investir...)
+            3. O usuário não cadastrado deverá informa seu antecedência criminal.
+            4. O usuário não cadastrado seleciona sua corretora
+            5. O usuário não cadastrado seleciona a linguagem do app
+            6. O usuário não cadastrado insere nome, email e senha e seleciona o botão "Create user"
+            7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo
+            </td>
+        </tr>
+        <tr>
+            <td>Restrições</td>
+            <td>Fluxo intuitivo</td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>Email inválido Usuário fechar aplicativo antes de terminar a ação Internet parar de funcionar durante a ação</td>
+        </tr>
+    </tbody>
+</table>
+<br>
