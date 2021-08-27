@@ -65,7 +65,7 @@
 | Fluxo | Passo | Ator | Ação | RF |
 | -- | -- | -- | -- | -- |
 | Normal | 1 | Usuário do Aplicativo | Usuário seleciona a opção de se cadastrar no aplicativo | -- |
-| Normal | 2 | Usuário do Aplicativo | Usuário tem acesso a uma lista de corretoras e bancos para entrar em contato e solicitar o cadastro no aplicativo | RF34 |
+| Normal | 2 | Usuário do Aplicativo | Usuário tem acesso a uma lista de corretoras e bancos para escolher qual utilizar ao comprar um título | RF34 |
 | Normal | 3 | Usuário do Aplicativo | Usuário recebe uma senha de acesso e deve trocar a senha | -- |
 
 #### Fazer Investimento 
