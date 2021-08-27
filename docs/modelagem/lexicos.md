@@ -1495,3 +1495,884 @@
     </tr>
 </table>
 <br>
+## Dúvidas
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Dúvidas</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+           indecisão, insegurança
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Hesitação entre opiniões diversas ou várias possibilidades de ação.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> com dúvida em certos assuntos financeiros pode acarretar em <a href="#investir">investir</a> em alguma empresa que está falindo, por exemplo, e acabar entrando em um grande prejuízo
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
+
+## Extrato
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Extrato</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+           Resumo, extracto, síntese, sumário, súmula, apanhado, sinopse
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Extrato é um relatório contendo informações sobre a movimentação e o saldo de uma conta bancária
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> pode visualizar o seu extrato para obter informações sobre sua conta bancária
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Financiamento
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Financiamento</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Investimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Financiamento é uma operação financeira em que a parte financiadora, em geral uma instituição financeira, fornece recursos para outra parte que está sendo financiada, de modo que esta possa executar algum investimento específico previamente acordado
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> pode financiar outras empresas recebendo em troca uma rentabilidade para seu bolso
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Verbo
+        </td>
+    </tr>
+</table>
+<br>
+
+## Fundos de investimentos
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Fundos de investimentos</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Condomínios
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Um fundo de investimento é formado por uma carteira de ativos financeiros. Ele é oferecido por administradoras que disponibilizam cotas para captação de recursos.
+            Basicamente, ele funciona como um condomínio, onde cada morador adquire uma cota (um apartamento), paga uma mensalidade para a administração e segue algumas regras preestabelecidas.
+            No fundo, há <a href="#taxa">taxas</a> para que a gestão tome decisões relacionadas aos ativos da carteira como, fazer novas aquisições ou vendas.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> investindo em um fundo de investimento, por necessitar de um valor maior á ser investido, terá uma grande possibilidade de ter um retorno maior
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Gráfico
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Gráfico</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Diagrama, esboço, esquema, mapa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Gráfico é a tentativa de se expressar visualmente dados ou valores numéricos, de maneiras diferentes, assim facilitando a compreensão dos mesmos.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Com os Gráficos do sistema, o <a href="#usuário">usuário</a> consegue efetuar simulações, avaliar seus investimentos de forma rápida e prática
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Imposto de Renda
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Imposto de Renda</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Imposto sobre o rendimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            O imposto sobre a renda é um tributo da espécie imposto existente em vários países, em que cada contribuinte, seja ele pessoa física ou pessoa jurídica, é obrigado a pagar uma certa porcentagem de sua renda ao governo, nacional ou regional, a depender de cada jurisdição
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+           Dependendo do patrimônio de um usuário e de seu investimento, ele deve pagar uma taxa que será calculada a partir da renda do usuário para o governo
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
+
+## Inflação
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Inflação</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Aumento de preços
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+         Aumento contínuo e generalizado dos preços de bens e serviços em um sistema econômico.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Dependendo do valor da inflação, certos investimentos terão seus valores aumentados ou diminuidos para compra
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
+
+## Informe de Rendimentos
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Informe de Rendimentos</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Documento sobre imposto de renda
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            O Informe de Rendimento é um documento utilizado para a fazer Declaração do Imposto de Renda, ele prova os seus ganhos. Os <a href="#banco">bancos</a> enviam Informes de Rendimento consolidando as operações e posições financeiras do ano base, como valores depositados na conta corrente e valores investidos em produtos financeiros e seus rendimentos. O envio ocorre no início do ano e a data limite para a preparação dos informes por parte dos <a href="#banco">bancos</a> varia de ano para ano.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Documento que comprova os dados financeiros do <a href="#usuário">usuário</a> para o pagamento do imposto de renda
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Instituição Financeira
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Instituição Financeira</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Associação financeira, corporação financeira
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Instituição financeira é uma organização cuja finalidade é otimizar a alocação de capitais financeiros próprios e/ou de terceiros, obedecendo uma correlação de risco, custo e prazo[1] que atenda aos objetivos dos seus patrocinadores (no sentido da palavra inglesa stakeholder), incluindo pessoas físicas ou jurídicas que tenham interesses em sua operação como acionistas, clientes, colaboradores, Cooperados, fornecedores, agências reguladoras do mercado onde a organização opere.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            A Insituição auxilia nos processos de investimentos para outras empresas
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Investimentos Pré-Fixados
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Investimentos Pré-Fixados</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Prefixados
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Os investimentos pré (prefixados) são aqueles cuja rentabilidade já é conhecida na data da aplicação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuário necessita visualizar seus investimentos prefixados
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Investimento Pós-Fixado
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Investimento Pós-Fixado</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Rentabilidade oculta
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Os investimentos pós-fixados são aqueles em que você NÃO sabe qual será o rendimento. A rentabilidade de um pós-fixado é vinculada a um indexador externo e você só saberá o rendimento final no dia do resgate. Os indexadores mais comuns são CDI, SELIC, IPCA e IGP-M, mas existem outros indicadores que também podem ter essa função.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Nas aplicações pós-fixadas, a rentabilidade de seu investimento vai variar durante todo o período. Como está vinculada aos indexadores, a rentabilidade acompanha o momento da economia do país. Se o seu investimento estiver indexado ao IPCA, por exemplo, seu rendimento sempre estará acima da inflação.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Investidor
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Investidor</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Aplicador
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Quem investe em investimentos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> torna-se um investidor
+            O <a href="#usuário">usuário</a> analisa qual é o seu perfil de investidor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Investimento
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Investimento</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Aplicação, empossamento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Aplicação de recursos, tempo, esforço a fim de se obter algo.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> procura sempre o melhor investimento.
+            O <a href="#usuário">usuário</a> pode perder dinheiro ou não com seus investimentos.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Investir
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Investir</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Acometer, Agredir
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            O ato de investir em ações
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> investe em <a href="#ação">ações</a>
+            O <a href="#usuário">usuário</a> retira <a href="#ação">ações</a>
+            O <a href="#usuário">usuário</a> estuda <a href="#ação">ações</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Ação
+        </td>
+    </tr>
+</table>
+<br>
+
+## Juros
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Juros</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Taxa, Taxas, prêmio, tributos, impostos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+           Rendimento que se obtém quando se empresta <a href="#dinheiro">dinheiro</a> por um determinado período
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> pagou <a href="#juros">juros</a>
+            A <a href="#taxa">taxa</a> de <a href="#juros">juros</a> cresceu
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Lançamentos Futuros
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Lançamentos Futuros</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Despesas futuras, receitas futuras
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Despesas ou receitas que serão debitadas ou creditadas em uma conta corrente em algum momento futuro, mas que já são mostradas no <a href="#extrato">extrato</a>, com indicação da data em que haverá o débito ou o crédito, porque estão programadas.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> deve está ciente de seus lançamentos futuros
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
+
+## Link Direto para o chat
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Link Direto para o chat</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Redicionamento para o chat para atendimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Quando selecionada vai para o chat de atendimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> quer ser atendido mais efetivamente possível
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Liquidez Diária
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Liquidez Diária</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Liquidez Diária
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Um <a href="#investimento">investimento</a> com liquidez diária é aquele que pode ser vendido ou resgatado em qualquer dia, conforme a vontade do <a href="#investidor">investidor</a>.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> tem a opção de escolher um rendimento com liquidez diária
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Lucro
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Lucro</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Ganho, benefício, vantagem
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Qualquer vantagem, benefício que se pode tirar de um ou mais investimentos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> pode ter ou não <a href="#lucro">lucros</a> com investimentos
+            O <a href="#lucro">lucro</a> pode ser investido novamente
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
