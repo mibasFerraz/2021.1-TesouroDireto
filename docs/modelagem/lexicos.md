@@ -2376,3 +2376,1742 @@
     </tr>
 </table>
 <br>
+## Notas de Corretagem
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Notas de Corretagem</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Notas de Corretagem
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            A nota de corretagem representa o extrato diário de suas operações no mercado de ações. Traz também o preço de aquisição das ações.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O sistema emite notas de corretagem ao <a href="#usuário">usuário</a> após uma compra na bolsa de valores
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
+
+## Nome Do Usuários
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Operações normais</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Nickname, Nick, @.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Nome único que o <a href="#usuário">usuário</a> pode escolher para poder compartilhar seu <a href="#perfil-do-investidor">perfil</a>.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuário passa a poder usufruir das funcionalidades da aplicação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Mercado de Ações
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Mercado de Ações</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Bolsa de Valores, Mercados de Balcão
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            O mercado de <a href="#ação">ações</a> é o ambiente no qual empresas de <a href="#capital">capital</a> aberto negociam frações de seu <a href="#patrimônio">patrimônio</a>.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#mercado-de-ações">Mercado de Ações</a> está agitado esse mês
+            O <a href="#mercado-de-ações">Mercado de Ações</a> ganha novos investidores a cada dia
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Ouvidoria
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Ouvidoria</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Atendimento, Central de Ajuda
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Lugar onde o <a href="#usuário">usuário</a> sana suas dúvidas
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> utiliza a <a href="#ouvidoria">ouvidoria</a>.
+            A <a href="#ouvidoria">ouvidoria</a> deve ajudar o <a href="#usuário">usuário</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Patrimônio
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Patrimônio</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Bens, ações, acervo, fortuna
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            São os bens, direitos e obrigações de valor econômico pertencentes a uma pessoa ou empresa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> possui uma quantia alta em patrimônios
+            O <a href="#usuário">usuário</a> deseja <a href="#investir">investir</a> para aumentar os seus patrimônios
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Perfil do Investidor
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Perfil do Investidor</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Características do Investidor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            O perfil de Investidor é o resultado de uma análise das suas características em relação a investimentos, e principalmente ao risco envolvido
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> deve conhecer o seu perfil de investidor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## Planos de Corretagem
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Planos de Corretagem</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Planos que <a href="#corretora">corretoras</a> cobram para que <a href="#usuário">usuários</a> utilizem dos seus serviços.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Corretoras ganham dinheiro através dos planos de corretagem.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Plataformas de Negociação
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Plataformas de Negociação</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Ambientes de Negociação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Uma plataforma de negociação é um software que permite você comprar e vender ativos na bolsa valores
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> tem acesso a uma plataforma de nogociação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Porcentagem
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Porcentagem</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Percentual, proporção, alíquota
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Proporção de uma quantidade ou grandeza em relação a uma outra avaliada sobre a centena [símb.: %]
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> comprou ações com uma elevada porcentagem de juros
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Previdência Privada
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Previdência Privada</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Renda extra visando a aposentadoria
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Previdência Privada é uma aposentadoria que não está ligada ao Instituto Nacional do Seguro Social (INSS). É a construção de uma renda extra para projetos futuros, como um reforço para a aposentadoria oficial
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor deseja construir uma previdência privada
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Provedor de Liquidez - RLP
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Provedor de Liquidez - RLP</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            RLP, Retail Liquidity Provider
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Sistema que surgiu para facilitar a vida de quem opera em mercados mais agressivos de minicontratos de índice e dólar
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuário utiliza diariamente o RLP
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Relatórios Extras
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Relatórios Extras</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Informações Auxiliares, Documentos Auxiliares
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Documentos que auxiliam no preenchimento da declaração do imposto de renda
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor nececssita declarar o imposto de renda
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Renda Ativa
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Renda Ativa</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Renda Ativa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Renda proveniente do trabalho
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor possui renda ativa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Renda Fixa
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Renda Fixa</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Renda Fixa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Renda fixa é um tipo de investimento onde as pessoas conhecem ou podem prever a rentabilidade, antes mesmo de realizar a operação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> investe em renda fixa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Renda Passiva
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Renda Passiva</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Renda Residual
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Sistema que gera renda mesmo que o indivíduo não esteja trabalhando ativamente nele
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> deseja construir uma renda passiva
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Renda Variável
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Renda Variável</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Renda Variável
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Renda variável é um tipo de investimento no qual não é possível definir o quanto seu dinheiro vai render em determinado período
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> investe em renda variável
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Rentabilidade
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Rentabilidade</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Produto, dividendos, ganho, juro, lucro
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            <a href="#lucro">Lucro</a> de dinheiro investido
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> se preocupa com sua rentabilidade
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Resumo de todos os investimentos
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Resumo de todos os investimentos</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Visualização de investimentos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Permite o usuário visualizar todos os seus investimentos feitos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> necessita visualizar seus investimentos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Retirar Ação
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Retirar Ação</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Remover ações
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Retirar alguma aplicação, <a href="#ação">ação</a> que aplicada durante algum tempo
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> quer retirar ações
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## RTD
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>RTD</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Dados em tempo-real
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            É uma tecnologia para a comunicação entre múltiplas aplicações
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#investidor">investidor</a> deseja utilizar o RTD
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Saldo
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Saldo</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Resto, restante, sobra, excedente, remanescente
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Diferença entre duas somas de débito e de crédito que as iguala ou fecha
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> deseja saber o seu saldo
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Senha
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Senha</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Marca, indicação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Marca ou indicação para dar a entender uma coisa ou se chegar ao conhecimento dela
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> solicitou uma redefinição de senha
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Saque
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Saque</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Saque
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Expedição de título de crédito ou ordem de pagamento em favor de si próprio ou de outrem
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+           O <a href="#usuário">usuário</a> realizou um saque
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Taxa
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Taxa</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Custo, preço, tarifa, valor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Preço fixo regulamentado por convenção ou pelo uso
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> está sujeito a taxas
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Taxa de Corretagem
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Taxa de Corretagem</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Diagrama, esboço, esquema, mapa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            A <a href="#taxa">taxa</a> de corretagem é um valor cobrado pelas corretoras de valores para cada operação de compra e venda de ações e outros ativos no mercado de ações
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O TD(Tesouro Direto) ganha dinheiro através de <a href="#taxa">taxas</a> de corretagem
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Taxa de Intermedição
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Taxa de Intermedição</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Taxa de Intermedição
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            As tarifas custam para o empreendedor menos do que muitas taxas de outros serviços tradicionais de transação financeira, que geralmente cobram mensalidade e mais porcentagem sobre uma transação, além de custos como aluguel de máquinas.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O Tesouro Direto cobra uma taxa de intermedição das instituição financeiras
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Taxa SELIC
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Taxa Selic</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Sistema Especial de Liquidação e Custódia, SELIC
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Isso significa que ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            A taxa SELIC varia ao longo do tempo impactando na renda do investidor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Termos
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Termos</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Termos, Documentos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+           Termos e Contratos assinados pelo o usuário
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O <a href="#usuário">usuário</a> pode visualizar seu histórico de termos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Tesouro Direto
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Tesouro Direto</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Tesouro Direto
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            <a href="#tesouro-direto">Tesouro Direto</a> é um programa da Secretaria do Tesouro Nacional do Brasil implementado em 7 de janeiro de 2002 em parceria com a B3 e que possui o intuito de democratizar a compra e venda de títulos públicos federais por pessoas físicas através da internet.
+            Ele funciona como um empréstimo. Dessa forma, você investe o seu <a href="#dinheiro">dinheiro</a> e o recebe acrescido de <a href="#juros">juros</a> na data de vencimento que foi definida no momento da compra.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O tesouro direto se encaixa em investimentos de renda fixa
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Títulos Financeiros
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Títulos Financeiros</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Títulos Financeiros
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Títulos Financeiros são “papéis” vendidos pelos governos ou empresas ao mercado financeiro para obter recursos financeiros
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor deseja resgatar dinheiro dos seus títulos financeiros
+            O investidor deseja comprar títulos financeiros
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Título Público
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Título Público</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Título Público
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Títulos Públicos são títulos de crédito emitidos pelos Governos Federal, Estadual ou Municipal, com o objetivo de proporcionar a cobertura de déficits orçamentários e investimentos em obras públicas, além de permitir o exercício do poder regulador sobre o mercado financeiro
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor deseja resgatar dinheiro dos seus títulos públicos
+            O investidor deseja comprar títulos públicos
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Título Privado
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Título Privado</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Título Privado
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Os Títulos Privados são títulos de crédito emitidos por uma sociedade anônima ou instituição financeira autorizada pelo Banco Central, visando a captação de recursos com prazo e um rendimento pré-determinado
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor deseja resgatar dinheiro dos seus títulos privados
+            O investidor deseja comprar títulos privados
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Tour virtual
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Tour virtual</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Tutorial
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Tutorial feito pelo Tesouro Direto para ajudar usuários a mexerem no sistema
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuários percorre as etapas do Tour Virtual
+            O usuário pula as etapas do Tour Virtual
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Transferir
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Transferir</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Transportar, deslocar, modificar, mudar, remover, substituir, transladar, trasladar, trocar
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Mudar de um lugar para outro
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuário transferiu dinheiro para a conta Tesouro Direto.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Ação
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Tributação
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Tributação</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Taxação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Aplicação de tributo, de imposto  
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O investidor está sujeito a taxação
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Usuário
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Usuário</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Utilizador, utente, cliente, usador, usufruidor
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O usuário possui uma conta no Tesouro Direto
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+
+## Vencimento
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td style="width: 100px;">
+            <b>Vencimento</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Expiração, final, término
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Dia em que expira o prazo para o pagamento de algum investimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            Investimentos podem possuir data de vencimento
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Estado
+        </td>
+    </tr>
+</table>
+<br>
