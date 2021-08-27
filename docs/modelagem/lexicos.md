@@ -17,6 +17,12 @@
             <td> Criação do documento</td>
             <td> Peniel Zannoukou </td>
         </tr>
+        <tr>
+            <td> 27.08.2021 </td>
+            <td>  0.2   </td>
+            <td> Adição do resto de léxico</td>
+            <td> Peniel Zannoukou </td>
+        </tr>
     </tbody>
 </table>
 <br>
