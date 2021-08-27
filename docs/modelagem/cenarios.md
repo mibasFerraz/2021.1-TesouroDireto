@@ -138,7 +138,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
         <tr>
             <td>Objetivo</td>
             <td>
-                Criar perfil para o usuário no Plant Jammer utilizando email
+                Criar perfil para o usuário no Tesouro Direto utilizando email
             </td>
         </tr>
         <tr>
