@@ -4115,3 +4115,9 @@
     </tr>
 </table>
 <br>
+
+## Referências
+
+  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
+  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.
+  * <a href="https://www.tesourodireto.com.br/">Site TD(Tesouro Direto)</a>
