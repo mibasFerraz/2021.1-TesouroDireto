@@ -5,8 +5,20 @@
 | Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 25.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
-| 27.08.2021 | 0.2 | Adicionando mais léxicos| Peniel Zannoukou|
-| 28.08.2021 | 0.2 | Adicionando léxicos| Peniel Zannoukou|
+| 27.08.2021 | 0.2 | Adicionando mais léxicos | Peniel Zannoukou|
+| 28.08.2021 | 0.2 | Adicionando léxicos | Peniel Zannoukou|
+| 28.08.2021 | 0.3 | Adicionando Metodologia | Peniel Zannoukou|
+
+## Metodologia
+<div align="justify">&emsp;&emsp; As atividades associadas ao processo de requisitos podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software. [Sayão, Carvalho, 2006]</div>
+<div align="justify">&emsp;&emsp; Estaremos fazendo o uso desse formato:</div>
+
+| Nome | Nome do Léxico |
+| -- | -- |
+| Sinônimos | Nomes sinônimos |
+| Noção | A noção sobre o léxico |
+| Impacto | O impacto do léxico |
+| Classificação | A classificação do léxico |
 
 ## Participantes
 
