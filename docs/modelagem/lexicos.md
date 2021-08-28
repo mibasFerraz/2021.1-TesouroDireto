@@ -21,7 +21,7 @@
 | Noção | O <a href="#usuário">usuário</a> possui uma agência para <a href="#depósito">depósito</a> em sua <a href="#conta">conta</a> de <a href="#tesouro-direto">tesouro direto</a>. |
 | Impacto | O <a href="#usuário">usuário</a> pode criar <a href="#conta">conta</a>.<br>O <a href="#usuário">usuário</a> pode realizar <a href="#depósito">depósito</a>.<br>O <a href="#usuário">usuário</a> pode <a href="#transferir">transferir</a> seu <a href="#dinheiro">dinheiro</a>. |
 | Classificação | Objeto |
-<br><br>
+<br>
 
 ## Agressivo
 | Nome | Agressivo |
@@ -30,7 +30,7 @@
 | Noção | O <a href="#usuário">usuário</a> possui uma agência para <a href="#depósito">depósito</a> em sua <a href="#conta">conta</a> de <a href="#tesouro-direto">tesouro direto</a>. |
 | Impacto | O <a href="#usuário">usuário</a> pode criar <a href="#conta">conta</a>.<br>O <a href="#usuário">usuário</a> pode realizar <a href="#depósito">depósito</a>.<br>O <a href="#usuário">usuário</a> pode <a href="#transferir">transferir</a> seu <a href="#dinheiro">dinheiro</a>. |
 | Classificação | Objeto |
-<br><br>
+<br>
 
 ## Ajuda
 
@@ -1461,9 +1461,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Um fundo de investimento é formado por uma carteira de ativos financeiros. Ele é oferecido por administradoras que disponibilizam cotas para captação de recursos.
-            Basicamente, ele funciona como um condomínio, onde cada morador adquire uma cota (um apartamento), paga uma mensalidade para a administração e segue algumas regras preestabelecidas.
-            No fundo, há <a href="#taxa">taxas</a> para que a gestão tome decisões relacionadas aos ativos da carteira como, fazer novas aquisições ou vendas.
+            Um fundo de investimento é formado por uma carteira de ativos financeiros. Ele é oferecido por administradoras que disponibilizam cotas para captação de recursos.<br>Basicamente, ele funciona como um condomínio, onde cada morador adquire uma cota (um apartamento), paga uma mensalidade para a administração e segue algumas regras preestabelecidas.<br>No fundo, há <a href="#taxa">taxas</a> para que a gestão tome decisões relacionadas aos ativos da carteira como, fazer novas aquisições ou vendas.
         </td>
     </tr>
     <tr>
@@ -2171,8 +2169,8 @@
     </tr>
 </table>
 <br>
-## Notas de Corretagem
 
+## Notas de Corretagem
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2218,7 +2216,6 @@
 <br>
 
 ## Nome Do Usuários
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2264,7 +2261,6 @@
 <br>
 
 ## Mercado de Ações
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2311,7 +2307,6 @@
 <br>
 
 ## Ouvidoria
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2358,7 +2353,6 @@
 <br>
 
 ## Patrimônio
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2404,9 +2398,7 @@
 </table>
 <br>
 
-
 ## Perfil do Investidor
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2452,7 +2444,6 @@
 <br>
 
 ## Planos de Corretagem
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2496,9 +2487,7 @@
 </table>
 <br>
 
-
 ## Plataformas de Negociação
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2543,9 +2532,7 @@
 </table>
 <br>
 
-
 ## Porcentagem
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2590,9 +2577,7 @@
 </table>
 <br>
 
-
 ## Previdência Privada
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2637,56 +2622,7 @@
 </table>
 <br>
 
-
-## Provedor de Liquidez - RLP
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Provedor de Liquidez - RLP</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            RLP, Retail Liquidity Provider
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Sistema que surgiu para facilitar a vida de quem opera em mercados mais agressivos de minicontratos de índice e dólar
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário utiliza diariamente o RLP
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
 ## Relatórios Extras
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2731,9 +2667,7 @@
 </table>
 <br>
 
-
 ## Renda Ativa
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2778,9 +2712,7 @@
 </table>
 <br>
 
-
 ## Renda Fixa
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2825,9 +2757,7 @@
 </table>
 <br>
 
-
 ## Renda Passiva
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2872,9 +2802,7 @@
 </table>
 <br>
 
-
 ## Renda Variável
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2919,9 +2847,7 @@
 </table>
 <br>
 
-
 ## Rentabilidade
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2966,9 +2892,7 @@
 </table>
 <br>
 
-
 ## Resumo de todos os investimentos
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -3015,7 +2939,6 @@
 
 
 ## Retirar Ação
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -3115,7 +3038,6 @@
 | Noção | Diferença entre duas somas de débito e de crédito que as iguala ou fecha |
 | Impacto | O <a href="#usuário">usuário</a> deseja saber o seu saldo |
 | Classificação | Objeto |
-<br><br>
 
 ## Senha
 | Nome | Senha |
@@ -3124,7 +3046,6 @@
 | Noção | Marca ou indicação para dar a entender uma coisa ou se chegar ao conhecimento dela |
 | Impacto | O <a href="#usuário">usuário</a> solicitou uma redefinição de senha |
 | Classificação | Objeto |
-<br><br>
 
 ## Saque    
 | Nome | Saque |
@@ -3133,7 +3054,6 @@
 | Noção | Expedição de título de crédito ou ordem de pagamento em favor de si próprio ou de outrem |
 | Impacto | O <a href="#usuário">usuário</a> realizou um saque |
 | Classificação | Objeto |
-<br><br> 
 
 ## Taxa            
 | Nome | Taxa |
@@ -3142,7 +3062,6 @@
 | Noção | Preço fixo regulamentado por convenção ou pelo uso |
 | Impacto | O <a href="#usuário">usuário</a> está sujeito a taxas |
 | Classificação | Objeto |
-<br><br>   
 
 ## Taxa de Corretagem     
 | Nome | Taxa de Corretagem |
@@ -3151,7 +3070,6 @@
 | Noção | A <a href="#taxa">taxa</a> de corretagem é um valor cobrado pelas corretoras de valores para cada operação de compra e venda de ações e outros ativos no mercado de ações  |
 | Impacto | O TD(Tesouro Direto) ganha dinheiro através de <a href="#taxa">taxas</a> de corretagem |
 | Classificação | Objeto |
-<br><br>
 
 ## Taxa de Intermedição  
 | Nome | Taxa de Intermedição |
@@ -3160,7 +3078,6 @@
 | Noção | As tarifas custam para o empreendedor menos do que muitas taxas de outros serviços tradicionais de transação financeira, que geralmente cobram mensalidade e mais porcentagem sobre uma transação, além de custos como aluguel de máquinas.  |
 | Impacto | O Tesouro Direto cobra uma taxa de intermedição das instituição financeiras |
 | Classificação | Objeto |
-<br><br>
 
 ## Taxa SELIC    
 | Nome | Termos |
@@ -3169,7 +3086,6 @@
 | Noção | Isso significa que ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras.  |
 | Impacto |  A taxa SELIC varia ao longo do tempo impactando na renda do investidor |
 | Classificação | Objeto |
-<br><br>
 
 ## Termos  
 | Nome | Termos |
@@ -3178,7 +3094,6 @@
 | Noção | Termos e Contratos assinados pelo o usuário  |
 | Impacto | O <a href="#usuário">usuário</a> pode visualizar seu histórico de termos |
 | Classificação | Objeto |
-<br><br>
 
 ## Tesouro Direto     
 | Nome | Tesouro Direto |
@@ -3187,7 +3102,6 @@
 | Noção | <a href="#tesouro-direto">Tesouro Direto</a> é um programa da Secretaria do Tesouro Nacional do Brasil implementado em 7 de janeiro de 2002 em parceria com a B3 e que possui o intuito de democratizar a compra e venda de títulos públicos federais por pessoas físicas através da internet.<br>Ele funciona como um empréstimo. Dessa forma, você investe o seu <a href="#dinheiro">dinheiro</a> e o recebe acrescido de <a href="#juros">juros</a> na data de vencimento que foi definida no momento da compra. |
 | Impacto | O tesouro direto se encaixa em investimentos de renda fixa |
 | Classificação | Objeto |
-<br><br>
 
 ## Títulos Financeiros
 | Nome | Títulos Financeiros |
@@ -3196,7 +3110,6 @@
 | Noção | Títulos Financeiros são “papéis” vendidos pelos governos ou empresas ao mercado financeiro para obter recursos financeiros |
 | Impacto | O investidor deseja resgatar dinheiro dos seus títulos financeiros<br>O investidor deseja comprar títulos financeiros |
 | Classificação | Objeto |
-<br><br>
 
 ## Título Público      
 | Nome | Título Público |
@@ -3205,7 +3118,6 @@
 | Noção | Títulos Públicos são títulos de crédito emitidos pelos Governos Federal, Estadual ou Municipal, com o objetivo de proporcionar a cobertura de déficits orçamentários e investimentos em obras públicas, além de permitir o exercício do poder regulador sobre o mercado financeiro |
 | Impacto | O investidor deseja resgatar dinheiro dos seus títulos públicos<br>O investidor deseja comprar títulos públicos |
 | Classificação | Objeto |
-<br><br>
 
 ## Título Privado    
 | Nome | Título Privado |
@@ -3214,7 +3126,6 @@
 | Noção | Os Títulos Privados são títulos de crédito emitidos por uma sociedade anônima ou instituição financeira autorizada pelo Banco Central, visando a captação de recursos com prazo e um rendimento pré-determinado |
 | Impacto | O investidor deseja resgatar dinheiro dos seus títulos privados<br>O investidor deseja comprar títulos privados |
 | Classificação | Objeto |
-<br><br>
 
 ## Tour virtual
 | Nome | Tour virtual |
@@ -3223,7 +3134,6 @@
 | Noção | Tutorial feito pelo Tesouro Direto para ajudar usuários a mexerem no sistema |
 | Impacto | O usuários percorre as etapas do Tour Virtual<br>O usuário pula as etapas do Tour Virtual |
 | Classificação | Objeto |
-<br><br>
 
 ## Transferir     
 | Nome | Transferir |
@@ -3232,7 +3142,6 @@
 | Noção | Mudar de um lugar para outro |
 | Impacto | O usuário transferiu dinheiro para a conta Tesouro Direto. |
 | Classificação | Ação |
-<br><br>
 
 ## Tributação
 | Nome | Tributação |
@@ -3241,7 +3150,6 @@
 | Noção | Aplicação de tributo, de imposto |
 | Impacto | O investidor está sujeito a taxação |
 | Classificação | Objeto |
-<br><br>
 
 ## Usuário    
 | Nome | Vencimento |
@@ -3250,7 +3158,6 @@
 | Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades |
 | Impacto | O usuário possui uma conta no Tesouro Direto |
 | Classificação | Objeto |
-<br><br>
 
 ## Vencimento   
 | Nome | Vencimento |
@@ -3259,7 +3166,6 @@
 | Noção | Dia em que expira o prazo para o pagamento de algum investimento |
 | Impacto | Investimentos podem possuir data de vencimento |
 | Classificação | Estado |
-<br><br>
 
 ## Referências
 
