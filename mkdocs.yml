@@ -29,7 +29,21 @@ nav:
           - Questionario: questionario.md
           - Análise de Discurso: analisediscurso.md
           - Análise de Protocolo: elicitacao/analise_protocolo.md
-
       - Priorização de requisitos:
           - First Things First: firstthingsfirst.md
           - MoSCoW: elicitacao/moscow.md
+        - Personas: personas.md
+        - Storytelling: storytelling.md
+        - Introspecção: introspeccao.md
+        - Observação Participativa: observacao_participativa.md
+        - Questionario: questionario.md
+        - Análise de Discurso: analisediscurso.md 
+        - Análise de Protocolo: elicitacao/analise_protocolo.md
+      
+      - Priorização de requisitos: 
+        - First Things First: firstthingsfirst.md
+        - MoSCoW: elicitacao/moscow.md
+  - Modelagem:
+      - Casos de Uso: casos_de_uso.md
+      - Cenários: modelagem/cenarios.md
+
