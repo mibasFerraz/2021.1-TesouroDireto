@@ -1,7 +1,10 @@
 site_name: Tesouro Direto
 
+site_favicon: ./assets/tesouro-direto-logo-withoutback.png
+
 theme:
   name: "material"
+  logo: 'assets/tesouro-direto-logo-withoutback.png'
   palette:
     primary: "teal"
 
@@ -15,26 +18,28 @@ nav:
       - Heatmap: heatmap.md
       - Metodologia: metodologia.md
       - Ferramentas: ferramentas.md
+  - Atas:
+      - Ata_24.08.2021: ata_24_08_2021.md
   - Pré-rastreabilidade:
       - RichPicture: richPicture.md
       - 5w2h: 5w2h.md
   - Elicitação:
+      - Personas: personas.md
       - Técnicas:
-
-        - Personas: personas.md
-        - Storytelling: storytelling.md
-        - Introspecção: introspeccao.md
-        - Observação Participativa: observacao_participativa.md
-        - Questionario: questionario.md
-        - Análise de Discurso: analisediscurso.md 
-        - Análise de Protocolo: elicitacao/analise_protocolo.md
-      
+          - Storytelling: storytelling.md
+          - Introspecção: introspeccao.md
+          - Observação Participativa: observacao_participativa.md
+          - Questionario: questionario.md
+          - Análise de Discurso: analisediscurso.md
+          - Análise de Protocolo: elicitacao/analise_protocolo.md   
       - Priorização de requisitos: 
-        - First Things First: firstthingsfirst.md
-        - MoSCoW: elicitacao/moscow.md
+          - First Things First: firstthingsfirst.md
+          - MoSCoW: elicitacao/moscow.md
+
   - Modelagem:
-      - Istar: istar.md
-      - Casos de Uso: casos_de_uso.md
-      - Diagrama de Caso de Uso: diagrama-caso-uso.md
-      - Cenários: modelagem/cenarios.md
-      
+        - Casos de Uso: casos_de_uso.md
+        - Diagrama de Caso de Uso: diagrama-caso-uso.md
+        - Especificação Suplementar: especificacaosuplementar.md
+        - Cenários: modelagem/cenarios.md
+        - Léxicos: modelagem/lexicos.md
+        - Istar: istar.md
