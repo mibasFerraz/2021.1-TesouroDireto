@@ -1,127 +1,36 @@
-# Léxicos
-<div class="line"></div>
+# <center> Léxicos
 
-## Histórico de Versão
+### Histórico de Versão<br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Data</th> 
-        <th>Versão </th> 
-        <th>Descrição</th> 
-        <th>Autor(es)</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td> 24.08.2021 </td>
-            <td>  0.1   </td>
-            <td> Criação do documento</td>
-            <td> Peniel Zannoukou </td>
-        </tr>
-        <tr>
-            <td> 27.08.2021 </td>
-            <td>  0.2   </td>
-            <td> Adição do resto de léxico</td>
-            <td> Peniel Zannoukou </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+| Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 25.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
+| 27.08.2021 | 0.2 | Adicionando mais léxicos| Peniel Zannoukou|
+| 28.08.2021 | 0.2 | Adicionando léxicos| Peniel Zannoukou|
+
+## Participantes
+
+* Peniel Zannoukou
+
+<br><br>
 
 ## Agência
-
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b> Agência</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Agência, Agências, Escritório, Corretoras,filial
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> possui uma agência para <a href="#depósito">depósito</a> em sua <a href="#conta">conta</a> de <a href="#tesouro-direto">tesouro direto</a>.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> pode criar <a href="#conta">conta</a>.
-            O <a href="#usuário">usuário</a> pode realizar <a href="#depósito">depósito</a>.
-            O <a href="#usuário">usuário</a> pode <a href="#transferir">transferir</a> seu <a href="#dinheiro">dinheiro</a>.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
+| Nome | Agência |
+| -- | -- |
+| Sinônimos | Agência, Agências, Escritório, Corretoras,filial |
+| Noção | O <a href="#usuário">usuário</a> possui uma agência para <a href="#depósito">depósito</a> em sua <a href="#conta">conta</a> de <a href="#tesouro-direto">tesouro direto</a>. |
+| Impacto | O <a href="#usuário">usuário</a> pode criar <a href="#conta">conta</a>.<br>O <a href="#usuário">usuário</a> pode realizar <a href="#depósito">depósito</a>.<br>O <a href="#usuário">usuário</a> pode <a href="#transferir">transferir</a> seu <a href="#dinheiro">dinheiro</a>. |
+| Classificação | Objeto |
+<br><br>
 
 ## Agressivo
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b> Agressivo</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Competitivo, Lutador, Afrontoso
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            O <a href="#perfil">perfil</a> agressivo é aquele que está disposto a assumir todos <a href="#riscos">riscos</a>.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            Grande obtenção de <a href="#lucro">lucro</a>
-            Grande Perda de <a href="#capital">capital</a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Estado
-        </td>
-    </tr>
-</table>
-<br>
+| Nome | Agressivo |
+| -- | -- |
+| Sinônimos | Agência, Agências, Escritório, Corretoras,filial |
+| Noção | O <a href="#usuário">usuário</a> possui uma agência para <a href="#depósito">depósito</a> em sua <a href="#conta">conta</a> de <a href="#tesouro-direto">tesouro direto</a>. |
+| Impacto | O <a href="#usuário">usuário</a> pode criar <a href="#conta">conta</a>.<br>O <a href="#usuário">usuário</a> pode realizar <a href="#depósito">depósito</a>.<br>O <a href="#usuário">usuário</a> pode <a href="#transferir">transferir</a> seu <a href="#dinheiro">dinheiro</a>. |
+| Classificação | Objeto |
+<br><br>
 
 ## Ajuda
 
@@ -216,54 +125,15 @@
 <br>
 
 ## Alvo programado
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Alvo Programado</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Alvo identificado, Oportunidades de Capital
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            O time identifica boas oportunidades de ganhos no mercado e sugere uma operação pré-programada com preço de compra e preços de venda, cabendo ao <a href="#usuário">usuário</a>, se concordar com a estratégia, informar apenas a quantidade desejada e deixar a operação prosseguir de modo automático.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-           O <a href="#usuário">usuário</a>, mesmo sem saber <a href="#investir">investir</a>, pode <a href="#investir">investir</a> utilizando esse serviço
-           Diminui o esforço e trabalho do <a href="#usuário">usuário</a> para <a href="#investir">investir</a> seu <a href="#patrimônio">patrimônio</a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Verbo
-        </td>
-    </tr>
-</table>
+| Nome | Alvo Programado |
+| -- | -- |
+| Sinônimos |  Alvo identificado, Oportunidades de Capital |
+| Noção | O time identifica boas oportunidades de ganhos no mercado e sugere uma operação pré-programada com preço de compra e preços de venda, cabendo ao <a href="#usuário">usuário</a>, se concordar com a estratégia, informar apenas a quantidade desejada e deixar a operação prosseguir de modo automático. |
+| Impacto | O <a href="#usuário">usuário</a>, mesmo sem saber <a href="#investir">investir</a>, pode <a href="#investir">investir</a> utilizando esse serviço<br>Diminui o esforço e trabalho do <a href="#usuário">usuário</a> para <a href="#investir">investir</a> seu <a href="#patrimônio">patrimônio</a> |
+| Classificação | Verbo |
 <br>
 
 ## Aplicação Automática
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -309,7 +179,6 @@
 <br>
 
 ## Área de apredizado
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -353,8 +222,8 @@
     </tr>
 </table>
 <br>
-## Assinatura Eletrônica
 
+## Assinatura Eletrônica
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -400,7 +269,6 @@
 <br>
 
 ## Alertas
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -446,7 +314,6 @@
 <br>
 
 ## Ação
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -492,7 +359,6 @@
 <br>
 
 ## Banco
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -538,7 +404,6 @@
 <br>
 
 ## Blog
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -584,7 +449,6 @@
 <br>
 
 ##  Canal Tesouro Direto
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -630,7 +494,6 @@
 <br>
 
 ## Carteira de Ações
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -676,7 +539,6 @@
 <br>
 
 ## Capital
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -722,7 +584,6 @@
 <br>
 
 ## CDI
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -768,7 +629,6 @@
 <br>
 
 ## COE-Certificado de Operações Estruturadas
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -814,7 +674,6 @@
 <br>
 
 ## Comparador de Investimentos
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -859,54 +718,7 @@
 </table>
 <br>
 
-## Comunidade de Traders
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Comunidade de Traders</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Comunhão, Coletividade
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            É um canal no youtube onde diferentes Traders profissionais dão dicas e educação financeira voltadas para Day Trade.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário consegue participar das aulas e adiquirir conheicmento
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
 ## Conservador
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -952,7 +764,6 @@
 <br>
 
 ## Conta
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -998,7 +809,6 @@
 <br>
 
 ## Conta Corrente
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1044,7 +854,6 @@
 <br>
 
 ## Contratos
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1090,7 +899,6 @@
 <br>
 
 ## Corretora
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1136,7 +944,6 @@
 <br>
 
 ## Crédito
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1182,7 +989,6 @@
 <br>
 
 ## Custódia Remunerada
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1228,7 +1034,6 @@
 <br>
 
 ## Custo Operacionais
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1251,7 +1056,7 @@
             <b>Noção</b>
         </td>
         <td>
-            São todas as despesas que mantem o seu negócio em funciomento, esse custo sua empresa tem independemente do valor de vendas. São considerados custo operacional despesas como: Água, Luz, Internet, Funcionários, Telefone, Sistemas de Gestão Comercial, taxa de custódia e etc..
+            São todas as despesas que mantem o seu negócio em funciomento, esse custo sua empresa tem independemente do valor de vendas.<br>São considerados custo operacional despesas como: Água, Luz, Internet, Funcionários, Telefone, Sistemas de Gestão Comercial, taxa de custódia e etc..
         </td>
     </tr>
     <tr>
@@ -1274,7 +1079,6 @@
 <br>
 
 ## Débito
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1320,7 +1124,6 @@
 <br>
 
 ## Depósito
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1366,7 +1169,6 @@
 <br>
 
 ## Destaques da Semana
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1412,7 +1214,6 @@
 <br>
 
 ## Dinheiro
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1458,7 +1259,6 @@
 <br>
 
 ## Dinheiro Aplicado
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1502,8 +1302,8 @@
     </tr>
 </table>
 <br>
-## Dúvidas
 
+## Dúvidas
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1549,7 +1349,6 @@
 <br>
 
 ## Extrato
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1595,7 +1394,6 @@
 <br>
 
 ## Financiamento
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1641,7 +1439,6 @@
 <br>
 
 ## Fundos de investimentos
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1735,7 +1532,6 @@
 <br>
 
 ## Imposto de Renda
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1781,7 +1577,6 @@
 <br>
 
 ## Inflação
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1827,7 +1622,6 @@
 <br>
 
 ## Informe de Rendimentos
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1873,7 +1667,6 @@
 <br>
 
 ## Instituição Financeira
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1919,7 +1712,6 @@
 <br>
 
 ## Investimentos Pré-Fixados
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -1965,7 +1757,6 @@
 <br>
 
 ## Investimento Pós-Fixado
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2011,7 +1802,6 @@
 <br>
 
 ## Investidor
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2058,7 +1848,6 @@
 <br>
 
 ## Investimento
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -2105,7 +1894,6 @@
 <br>
 
 ## Investir
-
 <table class="table table-striped border">
     <tr>
         <td style="width: 100px;">
@@ -3320,811 +3108,161 @@
 <br>
 
 
-## Saldo
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Saldo</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Resto, restante, sobra, excedente, remanescente
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Diferença entre duas somas de débito e de crédito que as iguala ou fecha
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> deseja saber o seu saldo
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
+## Saldo  
+| Nome | Saldo |
+| -- | -- |
+| Sinônimos | Resto, restante, sobra, excedente, remanescente |
+| Noção | Diferença entre duas somas de débito e de crédito que as iguala ou fecha |
+| Impacto | O <a href="#usuário">usuário</a> deseja saber o seu saldo |
+| Classificação | Objeto |
+<br><br>
 
 ## Senha
+| Nome | Senha |
+| -- | -- |
+| Sinônimos | Marca, indicação |
+| Noção | Marca ou indicação para dar a entender uma coisa ou se chegar ao conhecimento dela |
+| Impacto | O <a href="#usuário">usuário</a> solicitou uma redefinição de senha |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Senha</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Marca, indicação
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Marca ou indicação para dar a entender uma coisa ou se chegar ao conhecimento dela
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> solicitou uma redefinição de senha
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
+## Saque    
+| Nome | Saque |
+| -- | -- |
+| Sinônimos | Saque |
+| Noção | Expedição de título de crédito ou ordem de pagamento em favor de si próprio ou de outrem |
+| Impacto | O <a href="#usuário">usuário</a> realizou um saque |
+| Classificação | Objeto |
+<br><br> 
 
+## Taxa            
+| Nome | Taxa |
+| -- | -- |
+| Sinônimos |  Custo, preço, tarifa, valor |
+| Noção | Preço fixo regulamentado por convenção ou pelo uso |
+| Impacto | O <a href="#usuário">usuário</a> está sujeito a taxas |
+| Classificação | Objeto |
+<br><br>   
 
-## Saque
+## Taxa de Corretagem     
+| Nome | Taxa de Corretagem |
+| -- | -- |
+| Sinônimos |  Diagrama, esboço, esquema, mapa |
+| Noção | A <a href="#taxa">taxa</a> de corretagem é um valor cobrado pelas corretoras de valores para cada operação de compra e venda de ações e outros ativos no mercado de ações  |
+| Impacto | O TD(Tesouro Direto) ganha dinheiro através de <a href="#taxa">taxas</a> de corretagem |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Saque</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Saque
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Expedição de título de crédito ou ordem de pagamento em favor de si próprio ou de outrem
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-           O <a href="#usuário">usuário</a> realizou um saque
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
+## Taxa de Intermedição  
+| Nome | Taxa de Intermedição |
+| -- | -- |
+| Sinônimos |  Taxa de Intermedição |
+| Noção | As tarifas custam para o empreendedor menos do que muitas taxas de outros serviços tradicionais de transação financeira, que geralmente cobram mensalidade e mais porcentagem sobre uma transação, além de custos como aluguel de máquinas.  |
+| Impacto | O Tesouro Direto cobra uma taxa de intermedição das instituição financeiras |
+| Classificação | Objeto |
+<br><br>
 
+## Taxa SELIC    
+| Nome | Termos |
+| -- | -- |
+| Sinônimos |  Taxa Selic |
+| Noção | Isso significa que ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras.  |
+| Impacto |  A taxa SELIC varia ao longo do tempo impactando na renda do investidor |
+| Classificação | Objeto |
+<br><br>
 
-## Taxa
+## Termos  
+| Nome | Termos |
+| -- | -- |
+| Sinônimos |  Termos, Documentos |
+| Noção | Termos e Contratos assinados pelo o usuário  |
+| Impacto | O <a href="#usuário">usuário</a> pode visualizar seu histórico de termos |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Taxa</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Custo, preço, tarifa, valor
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Preço fixo regulamentado por convenção ou pelo uso
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> está sujeito a taxas
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Taxa de Corretagem
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Taxa de Corretagem</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Diagrama, esboço, esquema, mapa
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            A <a href="#taxa">taxa</a> de corretagem é um valor cobrado pelas corretoras de valores para cada operação de compra e venda de ações e outros ativos no mercado de ações
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O TD(Tesouro Direto) ganha dinheiro através de <a href="#taxa">taxas</a> de corretagem
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Taxa de Intermedição
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Taxa de Intermedição</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Taxa de Intermedição
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            As tarifas custam para o empreendedor menos do que muitas taxas de outros serviços tradicionais de transação financeira, que geralmente cobram mensalidade e mais porcentagem sobre uma transação, além de custos como aluguel de máquinas.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O Tesouro Direto cobra uma taxa de intermedição das instituição financeiras
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Taxa SELIC
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Taxa Selic</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Sistema Especial de Liquidação e Custódia, SELIC
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Isso significa que ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            A taxa SELIC varia ao longo do tempo impactando na renda do investidor
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Termos
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Termos</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Termos, Documentos
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-           Termos e Contratos assinados pelo o usuário
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O <a href="#usuário">usuário</a> pode visualizar seu histórico de termos
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Tesouro Direto
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Tesouro Direto</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Tesouro Direto
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            <a href="#tesouro-direto">Tesouro Direto</a> é um programa da Secretaria do Tesouro Nacional do Brasil implementado em 7 de janeiro de 2002 em parceria com a B3 e que possui o intuito de democratizar a compra e venda de títulos públicos federais por pessoas físicas através da internet.
-            Ele funciona como um empréstimo. Dessa forma, você investe o seu <a href="#dinheiro">dinheiro</a> e o recebe acrescido de <a href="#juros">juros</a> na data de vencimento que foi definida no momento da compra.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O tesouro direto se encaixa em investimentos de renda fixa
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
+## Tesouro Direto     
+| Nome | Tesouro Direto |
+| -- | -- |
+| Sinônimos |  Tesouro Direto |
+| Noção | <a href="#tesouro-direto">Tesouro Direto</a> é um programa da Secretaria do Tesouro Nacional do Brasil implementado em 7 de janeiro de 2002 em parceria com a B3 e que possui o intuito de democratizar a compra e venda de títulos públicos federais por pessoas físicas através da internet.<br>Ele funciona como um empréstimo. Dessa forma, você investe o seu <a href="#dinheiro">dinheiro</a> e o recebe acrescido de <a href="#juros">juros</a> na data de vencimento que foi definida no momento da compra. |
+| Impacto | O tesouro direto se encaixa em investimentos de renda fixa |
+| Classificação | Objeto |
+<br><br>
 
 ## Títulos Financeiros
+| Nome | Títulos Financeiros |
+| -- | -- |
+| Sinônimos |  Títulos Financeiros |
+| Noção | Títulos Financeiros são “papéis” vendidos pelos governos ou empresas ao mercado financeiro para obter recursos financeiros |
+| Impacto | O investidor deseja resgatar dinheiro dos seus títulos financeiros<br>O investidor deseja comprar títulos financeiros |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Títulos Financeiros</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Títulos Financeiros
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Títulos Financeiros são “papéis” vendidos pelos governos ou empresas ao mercado financeiro para obter recursos financeiros
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O investidor deseja resgatar dinheiro dos seus títulos financeiros
-            O investidor deseja comprar títulos financeiros
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
+## Título Público      
+| Nome | Título Público |
+| -- | -- |
+| Sinônimos |  Título Público |
+| Noção | Títulos Públicos são títulos de crédito emitidos pelos Governos Federal, Estadual ou Municipal, com o objetivo de proporcionar a cobertura de déficits orçamentários e investimentos em obras públicas, além de permitir o exercício do poder regulador sobre o mercado financeiro |
+| Impacto | O investidor deseja resgatar dinheiro dos seus títulos públicos<br>O investidor deseja comprar títulos públicos |
+| Classificação | Objeto |
+<br><br>
 
-
-## Título Público
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Título Público</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Título Público
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Títulos Públicos são títulos de crédito emitidos pelos Governos Federal, Estadual ou Municipal, com o objetivo de proporcionar a cobertura de déficits orçamentários e investimentos em obras públicas, além de permitir o exercício do poder regulador sobre o mercado financeiro
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O investidor deseja resgatar dinheiro dos seus títulos públicos
-            O investidor deseja comprar títulos públicos
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Título Privado
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Título Privado</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Título Privado
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Os Títulos Privados são títulos de crédito emitidos por uma sociedade anônima ou instituição financeira autorizada pelo Banco Central, visando a captação de recursos com prazo e um rendimento pré-determinado
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O investidor deseja resgatar dinheiro dos seus títulos privados
-            O investidor deseja comprar títulos privados
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
+## Título Privado    
+| Nome | Título Privado |
+| -- | -- |
+| Sinônimos |  Título Privado |
+| Noção | Os Títulos Privados são títulos de crédito emitidos por uma sociedade anônima ou instituição financeira autorizada pelo Banco Central, visando a captação de recursos com prazo e um rendimento pré-determinado |
+| Impacto | O investidor deseja resgatar dinheiro dos seus títulos privados<br>O investidor deseja comprar títulos privados |
+| Classificação | Objeto |
+<br><br>
 
 ## Tour virtual
+| Nome | Tour virtual |
+| -- | -- |
+| Sinônimos |  Tutorial |
+| Noção | Tutorial feito pelo Tesouro Direto para ajudar usuários a mexerem no sistema |
+| Impacto | O usuários percorre as etapas do Tour Virtual<br>O usuário pula as etapas do Tour Virtual |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Tour virtual</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Tutorial
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Tutorial feito pelo Tesouro Direto para ajudar usuários a mexerem no sistema
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuários percorre as etapas do Tour Virtual
-            O usuário pula as etapas do Tour Virtual
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Transferir
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Transferir</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Transportar, deslocar, modificar, mudar, remover, substituir, transladar, trasladar, trocar
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Mudar de um lugar para outro
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário transferiu dinheiro para a conta Tesouro Direto.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Ação
-        </td>
-    </tr>
-</table>
-<br>
-
+## Transferir     
+| Nome | Transferir |
+| -- | -- |
+| Sinônimos | Transportar, deslocar, modificar, mudar, remover, substituir, transladar, trasladar, trocar |
+| Noção | Mudar de um lugar para outro |
+| Impacto | O usuário transferiu dinheiro para a conta Tesouro Direto. |
+| Classificação | Ação |
+<br><br>
 
 ## Tributação
+| Nome | Tributação |
+| -- | -- |
+| Sinônimos | Taxação |
+| Noção | Aplicação de tributo, de imposto |
+| Impacto | O investidor está sujeito a taxação |
+| Classificação | Objeto |
+<br><br>
 
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Tributação</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Taxação
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Aplicação de tributo, de imposto  
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O investidor está sujeito a taxação
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
+## Usuário    
+| Nome | Vencimento |
+| -- | -- |
+| Sinônimos | Utilizador, utente, cliente, usador, usufruidor |
+| Noção | Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades |
+| Impacto | O usuário possui uma conta no Tesouro Direto |
+| Classificação | Objeto |
+<br><br>
 
-
-## Usuário
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Usuário</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Utilizador, utente, cliente, usador, usufruidor
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário possui uma conta no Tesouro Direto
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-
-## Vencimento
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td style="width: 100px;">
-            <b>Vencimento</b>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Expiração, final, término
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Dia em que expira o prazo para o pagamento de algum investimento
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            Investimentos podem possuir data de vencimento
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Estado
-        </td>
-    </tr>
-</table>
-<br>
+## Vencimento   
+| Nome | Vencimento |
+| -- | -- |
+| Sinônimos | Expiração, final, término |
+| Noção | Dia em que expira o prazo para o pagamento de algum investimento |
+| Impacto | Investimentos podem possuir data de vencimento |
+| Classificação | Estado |
+<br><br>
 
 ## Referências
 
-  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
-  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.
-  * <a href="https://www.tesourodireto.com.br/">Site TD(Tesouro Direto)</a>
+>  * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br><br>
+>  * Sayão, Miriam. ; Carvalho, Gustavo R. Construção de léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop inInformation and Human Language Technology, Outubro de 2016.<br><br>
+>  * <a href="https://www.tesourodireto.com.br/">Site TD(Tesouro Direto)</a>
