@@ -15,20 +15,21 @@ nav:
       - Heatmap: heatmap.md
       - Metodologia: metodologia.md
       - Ferramentas: ferramentas.md
+  - Atas:
+      - Ata_24.08.2021: ata_24_08_2021.md
   - Pré-rastreabilidade:
       - RichPicture: richPicture.md
       - 5w2h: 5w2h.md
   - Elicitação:
       - Personas: personas.md
       - Técnicas:
-        - Storytelling: storytelling.md
-        - Introspecção: introspeccao.md
-        - Observação Participativa: observacao_participativa.md
-        - Questionario: questionario.md
-        - Análise de Discurso: analisediscurso.md 
-        - Análise de Protocolo: elicitacao/analise_protocolo.md
-      
-      - Priorização de requisitos: 
-        - First Things First: firstthingsfirst.md
-        - MoSCoW: elicitacao/moscow.md
+          - Storytelling: storytelling.md
+          - Introspecção: introspeccao.md
+          - Observação Participativa: observacao_participativa.md
+          - Questionario: questionario.md
+          - Análise de Discurso: analisediscurso.md
+          - Análise de Protocolo: elicitacao/analise_protocolo.md
 
+      - Priorização de requisitos:
+          - First Things First: firstthingsfirst.md
+          - MoSCoW: elicitacao/moscow.md
