@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 25.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
 | 27.08.2021 | 0.2 | Correção sugeridas no Pull Request| Peniel Zannoukou|
+| 28.08.2021 | 0.2 | Correção de tabela e revisão | João Pedro Chaves |
 
 ## Participantes
 
@@ -23,7 +24,6 @@
 </div>
 <br><br>
 
-</div><br>
 
 
 ### Metodologia
