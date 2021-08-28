@@ -18,7 +18,7 @@
 
 ### Introdução
 <div align="justify"> 
-&emsp;&emsp O diagrama de caso de uso é um "índice gráfico" de casos de uso. Ele representa os atores de um sistema (como pequenos bonecos) e os casos de uso (como elipses). Em um diagrama de caso de uso pode ter também dois tipos de relacionamento: (1) ligando ator com caso de uso, que indicam que um ator participa de um determinado caso de uso; (2) ligando dois casos de uso, que indicam que um caso de uso inclui ou estende outro caso de uso.[1]
+&emsp;&emsp; O diagrama de caso de uso é um "índice gráfico" de casos de uso. Ele representa os atores de um sistema (como pequenos bonecos) e os casos de uso (como elipses). Em um diagrama de caso de uso pode ter também dois tipos de relacionamento: (1) ligando ator com caso de uso, que indicam que um ator participa de um determinado caso de uso; (2) ligando dois casos de uso, que indicam que um caso de uso inclui ou estende outro caso de uso.[1]
 
 <br><br>
 
