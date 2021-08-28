@@ -33,5 +33,6 @@ nav:
         - First Things First: firstthingsfirst.md
         - MoSCoW: elicitacao/moscow.md
   - Modelagem:
-      - Casos de Uso: casos_de_uso.md
-      - Cenários: modelagem/cenarios.md
+        - Istar: istar.md
+        - Casos de Uso: casos_de_uso.md
+        - Cenários: modelagem/cenarios.md
