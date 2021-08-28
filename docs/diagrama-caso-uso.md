@@ -5,7 +5,7 @@
 
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
-| 27.08.2020 | 0.1 | Criação do documento |Lucas Melo dos Santos|
+| 28.08.2021 | 0.1 | Criação do documento |Lucas Melo dos Santos|
 
 ### Participantes
 
