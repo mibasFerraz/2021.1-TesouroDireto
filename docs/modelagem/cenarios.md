@@ -1,750 +1,208 @@
-# Cenários
-<div class="line"></div>
+# <center> Cenários
 
-## Histórico de Versão
 
-<table class="table table-striped border">
-    <thead>
-        <th>Data</th> 
-        <th>Versão </th> 
-        <th>Descrição</th> 
-        <th>Autor(es)</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td> 25.08.2021 </td>
-            <td>  0.1   </td>
-            <td> Criação do documento</td>
-            <td> Peniel Zannoukou </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### Histórico de Versão<br>
+
+| Data | Versão | Descrição | Autor(es)|
+| -- | -- | -- | -- |
+| 25.08.2021 | 0.1 | Criação do documento | Peniel Zannoukou |
+| 27.08.2021 | 0.2 | Correção sugeridas no Pull Request| Peniel Zannoukou|
+
+## Participantes
+
+* Peniel Zannoukou
+
+<br><br>
 
 ## Resumo
+<div align="justify">&emsp;&emsp; Um cenário nada mais é do que uma história curta ou uma descrição de como um evento (ou eventos futuros) pode impactar as operações de uma empresa. Cenários são criados tanto para o ambiente interno quanto para o externo (ou seja, para todos os riscos corporativos que impactam uma organização).Os cenários são exemplos da vida real em que o sistema é ou será utilizado.
+</div>
+<div align="justify">&emsp;&emsp; Os cenários podem ser úteis para adicionar detalhes a uma descrição geral de requisito. Trata-se de descrições de iterações do usuário com o sistema. Cada cenário cobre um pequeno número de interações possíveis.
+</div>
+<div align="justify">&emsp;&emsp; Diferentes cenários são desenvolvidos e oferecem diversos tipos de informação em variados níveis de detalhamento sobre o sistema. O objetivo desse documento é registrar todos os cenários criados.
+</div>
+<br><br>
 
-Um cenário nada mais é do que uma história curta ou uma descrição de como um evento (ou eventos futuros) pode impactar as operações de uma empresa. Cenários são criados tanto para o ambiente interno quanto para o externo (ou seja, para todos os riscos corporativos que impactam uma organização).Os cenários são exemplos da vida real em que o sistema é ou será utilizado. Os cenários podem ser úteis para adicionar detalhes a uma descrição geral de requisito. Trata-se de descrições de iterações do usuário com o sistema. Cada cenário cobre um pequeno número de interações possíveis. Diferentes cenários são desenvolvidos e oferecem diversos tipos de informação em variados níveis de detalhamento sobre o sistema. O objetivo desse documento é registrar todos os cenários criados.
+</div><br>
 
-## Metodologia
 
-Ele descreve uma situação de uso do sistema. Utilizaremos a tabela a seguir como modelo para os cenários.
+### Metodologia
+<div align="justify">&emsp;&emsp; Ele descreve uma situação de uso do sistema. Utilizaremos a tabela a seguir como modelo para os cenários.
 Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
+</div><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Título do Cenário</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Objetivo/meta do cenarios</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:
-                pós-condição:
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Atores envolvidos</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Recursos envolvidos</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>Detalhes do cenários</td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Descrição da retrição</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>Descrição da exceção</td>
-        </tr>
-    </tbody>
-</table>
-<br>
+| Título | Título do Cenário |
+| -- | -- |
+| Objetivo | Objetivo/meta do cenarios |
+| Contexto | pré-condição:<br>pós-condição: |
+| Atore | Atores envolvidos |
+| Recursos | Recursos envolvidos |
+| Episódios | Detalhes do cenários |
+| Restrições | Descrição da retrição | 
+| Exceção | Descrição da exceção |
+<br><br>
 
-# CENÁRIOS
+## CENÁRIOS
+### C01 - Cadastrar usuário utilizando email
+| Título | Cadastrar usuário utilizando email |
+| -- | -- |
+| Objetivo | Criar perfil para o usuário no Tesouro Direto utilizando email |
+| Contexto | pré-condição: Possuir email válido<br>pós-condição: É criado um perfil para o novo usuário |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário não cadastrado acessa o aplicativo do Tesouro Direto<br>2. O usuário não cadastrado seleciona seu objetivo no aplicativo (Simular,Investir...)<br>3. O usuário não cadastrado deverá informa seu antecedência criminal.<br>4. O usuário não cadastrado seleciona sua corretora<br>5. O usuário não cadastrado seleciona a linguagem do app<br>6. O usuário não cadastrado insere nome, email e senha e seleciona o botão "Create user"<br>7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C01 - Cadastrar usuário utilizando email
+### C02 - Cadastrar usuário utilizando Google
+| Título | Cadastrar usuário utilizando Google |
+| -- | -- |
+| Objetivo | Criar perfil para o usuário no Tesouro Direto utilizando Google |
+| Contexto | pré-condição: Possuir email válido<br>pós-condição: É criado um perfil para o novo usuário |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário não cadastrado acessa o aplicativo do Tesouro Direto<br>2. O usuário não cadastrado seleciona seu objetivo no aplicativo (Simular,Investir...)<br>3. O usuário não cadastrado deverá informa seu antecedência criminal.<br>4. O usuário não cadastrado seleciona sua corretora<br>5. O usuário não cadastrado seleciona a linguagem do app<br>6. O usuário não cadastrado insere nome, email e senha e seleciona o botão "Create user"<br>7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Cadastrar usuário utilizando email</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Criar perfil para o usuário no Tesouro Direto utilizando email</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>Pré-condição: Possuir email válido
-                Pós-condição: É criado um perfil para o novo usuário
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso à internet
-                App intalado
-                Acesso ao site</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário não cadastrado acessa o aplicativo do Tesouro Direto
-            2. O usuário não cadastrado seleciona seu objetivo no aplicativo (Simular,Investir...)
-            3. O usuário não cadastrado deverá informa seu antecedência criminal.
-            4. O usuário não cadastrado seleciona sua corretora
-            5. O usuário não cadastrado seleciona a linguagem do app
-            6. O usuário não cadastrado insere nome, email e senha e seleciona o botão "Create user"
-            7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo</td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            Email inválido
-            Usuário fechar aplicativo antes de terminar a ação
-            Internet parar de funcionar durante a ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C03 - Modificar Nome
+| Título | Modificar Nome |
+| -- | -- |
+| Objetivo | Modificar o nome dentro do app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Nome alterado |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as configurações da conta<br>3. O usuário seleciona o campo nome e faz a alteração<br>4. O usuário salva a alteração ao clicar no botão "Save Changes" |
+| Restrições | Nomes que são maiores que o tamanho configurado | 
+| Exceção | O usuário fechar o aplicativo antes de terminar a ação<br>A internet parar de funcionar no meio da ação |
+<br><br>
 
-## C02 - Cadastrar usuário utilizando Google
+### C04 - Excluir conta
+| Título | Excluir conta |
+| -- | -- |
+| Objetivo | Excluir a conta cadastrada no app |
+| Contexto | pré-condição:Usuário logado no Tesouro Direto<br>pós-condição:Conta excluída e usuário redirecionado para a tela inicial |
+| Atore | Usuário |
+| Recursos | Acesso à internet |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as configurações da conta<br>3. O usuário seleciona o botão de deletar conta<br>4. O usuário confirma o email<br>5. O usuário seleciona novamente o botão para confirmar |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Cadastrar usuário utilizando Google</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>
-                Criar perfil para o usuário no Tesouro Direto utilizando email
-            </td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Possuir email válido
-                pós-condição:É criado um perfil para o novo usuário
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso à internet
-                App intalado</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-             1. O usuário não cadastrado acessa o aplicativo do Tesouro Direto
-            2. O usuário não cadastrado seleciona seu objetivo no aplicativo (Simular,Investir...)
-            3. O usuário não cadastrado deverá informa seu antecedência criminal.
-            4. O usuário não cadastrado seleciona sua corretora
-            5. O usuário não cadastrado seleciona a linguagem do app
-            6. O usuário não cadastrado insere nome, email e senha e seleciona o botão "Create user"
-            7. A aplicativo inicia o modo Tour, onde será explicado e explorado as funcionalidades do aplicativo
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>Email inválido Usuário fechar aplicativo antes de terminar a ação Internet parar de funcionar durante a ação</td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C05 - Visualizar funcionalidade
+| Título | Visualizar funcionalidade |
+| -- | -- |
+| Objetivo | Poder ver as opções que se encontra no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ver opções das funcionalidades |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções da conta<br>3. O usuário seleciona o botão de funcionalides<br>4. O usuário clicar<br>5. O usuário verá as funcionalidades |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C03 - Modificar Nome
+### C06 -  Escolher Simular
+| Título |  Escolher Simular |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ver opções de simulação |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de simular<br>4. O usuário clicar<br>5. O usuário verá como fazer a simulação |
+| Restrições | - | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Modificar Nome</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Modificar o nome dentro do app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição: Usuário logado no Tesouro Direto
-                pós-condição:  Nome alterado
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso à internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as configurações da conta
-            3. O usuário seleciona o campo nome e faz a alteração
-            4. O usuário salva a alteração ao clicar no botão "Save Changes"
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>
-            Nomes que são maiores que o tamanho configurado
-            </td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C07 - Escolher Invesrir
+| Título | Escolher Invesrir |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app por exemplo investir |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ver nas funcionalidade o ponto de investir. |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de funcionalidade<br>4. O usuário clicar no botão investir<br>5. O usuário opções de investimento<br>6. O usuário verá como fazer seu investimento |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C04 - Excluir conta
+### C08 - Escolher Resgatar
+| Título | Escolher Resgatar |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ver nas funcionalidade o ponto de resgatar. |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa sua plataforma de investimentos.<br>2. O usuário acessa as opções do app<br>3. Verifique quais títulos do Tesouro Direto estão sob a sua custódia e os valores equivalentes<br>4. O usuário seleciona o botão de funcionalidade<br>5. O usuário clicar no botão resgatar<br>6. Agora o usuário tem a opção de resgatar o valor integral ou uma parte dele<br>7. O usuário efetuará o resgate imformando seus dados cadastrado no sistema. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Excluir conta</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Excluir a conta cadastrada no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Conta excluída e usuário redirecionado para a tela inicial
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso à internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as configurações da conta
-            3. O usuário seleciona o botão de deletar conta
-            4. O usuário confirma o email
-            5. O usuário seleciona novamente o botão para confirmar</td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Sem acesso a internet não será possivél realizar ação.</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            Email inválido Usuário fechar aplicativo antes de terminar a ação Internet parar de funcionar durante a ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C09 - Escolher Título
+| Título | Escolher Título |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ir nas funcionalidades e clicar no ponto de investir. |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios |  1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de funcionalidade<br>4. O usuário clicar no botão título.<br>5. O usuário poderá escolher seu título entre as opções disponível. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C05 - Visualizar funcionalidade
+### C10 - Escolher Corretoras ou Banco
+| Título | Escolher Corretoras ou Banco |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ir nas funcionalidades e clicar no ponto de investir. |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o app Tesouro Direto Já sabendo sua corretos ou banco<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de funcionalidade<br>4. O usuário clicar no botão da opção que deseja realizar.<br>5. O usuário escolher corretora. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Visualizar funcionalidade</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>
-            Poder ver as opções que se encontra no app
-            </td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>
-            pré-condição: Usuário logado no Tesouro Direto
-            pós-condição: Ver opções das funcionalidades
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso à internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções da conta
-            3. O usuário seleciona o botão de funcionalides 
-            4. O usuário clicar
-            5. O usuário verá as funcionalidades
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação</td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C11 -  Vizualizar Posição
+| Título |  Vizualizar Posição |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ir nas funcionalidades |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de funcionalidade<br>4. O usuário clicar no botão posição<br>5. O usuário vizualizar sua posição. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C06 - Escolher Simular
+### C12 - Visualizar Saldo Investimento
+| Título | Visualizar Saldo Investimento |
+| -- | -- |
+| Objetivo | Poder ver dentre as opções o que deseja no app |
+| Contexto | pré-condição: Usuário logado no Tesouro Direto<br>pós-condição: Ir nas funcionalidades e clicar no ponto de investir. |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios | 1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa as opções do app<br>3. O usuário seleciona o botão de funcionalidade<br>4. O usuário clicar no botão posição<br>5. O usuário clicar depois em vizualizar saldo investimento.<br>6. Assim usuário poderá vizualizar saldo. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Escolher Simular</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver opções de simulação
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de simular 
-            4. O usuário clicar
-            5. O usuário verá como fazer a simulação
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+### C13 - Alterar/Escolher a linguagem do app
+| Título | Alterar/Escolher a linguagem do app |
+| -- | -- |
+| Objetivo | O usuário alterara linguagem do app(Inglês, francês, espanhol,etc) |
+| Contexto | pré-condição: Usuário logado<br>pós-condição: Ir nas funcionalidades e clicar em linguagem |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site |
+| Episódios |  1. O usuário acessa o Tesouro Direto<br>2. O usuário acessa a aba de configurações do App<br>3. O usuário seleciona a configuração desejada<br>4. O usuário seleciona a linguagem desejada. |
+| Restrições | Fluxo intuitivo | 
+| Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
+<br><br>
 
-## C07 - Escolher Invesrir
+## Referências
+<div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
+</div><br>
 
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Escolher Invesrir</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de investir.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão investir 
-            5. O usuário opções de investimento 
-            6. O usuário verá como fazer seu investimento
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C08 - Escolher Resgatar
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Escolher Resgatar</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de resgatar.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão resgatar 
-            5. O usuário efetuará o resgate imformando seus dados cadastrado no sistema.
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C09 - Escolher Título
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Escolher Título</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de investir.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão título. 
-            5. O usuário poderá escolher seu título entre as opções disponível.
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C10 - Escolher Corretoras ou Banco
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Escolher Corretoras ou Banco</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de investir.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o app Tesouro Direto Já sabendo sua corretos ou banco
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão da opção que deseja realizar.
-            5. O usuário escolher corretora.
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C11 - Vizualizar Posição
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Vizualizar Posição</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de investir.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão posição 
-            5. O usuário vizualizar sua posição.
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C12 - Visualizar Saldo Investimento
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Visualizar Saldo Investimento</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>Poder ver dentre as opções o que deseja no app</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:Usuário logado no Tesouro Direto
-                pós-condição:Ver nas funcionalidade o ponto de investir.
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Usuário</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Acesso a internet</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa as opções do app
-            3. O usuário seleciona o botão de funcionalidade
-            4. O usuário clicar no botão posição 
-            5. O usuário clicar depois em vizualizar saldo investimento.
-            6. Assim usuário poderá vizualizar saldo.
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo Intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-## C13 - Alterar/Escolher a linguagem do app
-
-<table class="table table-striped border">
-    <thead>
-        <th>Título</th> 
-        <th>Alterar/Escolher a linguagem do app</th> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>Objetivo</td>
-            <td>O usuário alterara linguagem do app(Inglês, francês, espanhol,etc)</td>
-        </tr>
-        <tr>
-            <td>Contexto</td>
-            <td>pré-condição:
-                pós-condição:
-            </td>
-        </tr>
-        <tr>
-            <td>Atores</td>
-            <td>Atores envolvidos</td>
-        </tr>
-        <tr>
-            <td>Recursos</td>
-            <td>Recursos envolvidos</td>
-        </tr>
-        <tr>
-            <td>Episódios</td>
-            <td>
-            1. O usuário acessa o Tesouro Direto
-            2. O usuário acessa a aba de configurações do App
-            3. O usuário seleciona a configuração desejada
-            4. O usuário seleciona a linguagem desejada
-            </td>
-        </tr>
-        <tr>
-            <td>Restrições</td>
-            <td>Fluxo intuitivo</td>
-        </tr>
-        <tr>
-            <td>Exceção</td>
-            <td>
-            O usuário fechar o aplicativo antes de terminar a ação
-            A internet parar de funcionar no meio da ação
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-# Bibliografia
-Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
-    
-* SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
-* BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
-* <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/cenarios/cenariosTotais/">Documento do cenario do grupo iFut</a>
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;<br><br>
+> BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.<br><br>
+> <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/cenarios/cenariosTotais/">Documento do cenario do grupo iFut</a>
