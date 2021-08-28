@@ -1,4 +1,4 @@
-# <center> TEMPLATE
+# <center> Diagrama de Caso de Uso
 
 
 ### Histórico de versão<br>
@@ -6,6 +6,7 @@
 |Data | Versão | Descrição | Autor(es)|
 | -- | -- | -- | -- |
 | 28.08.2021 | 0.1 | Criação do documento |Lucas Melo dos Santos|
+| 28.08.2021 | 0.2 | Correção de diagrama com verbos incorretos |Lucas Melo dos Santos|
 
 ### Participantes
 
@@ -17,7 +18,7 @@
 
 ### Introdução
 <div align="justify"> 
-O diagrama de caso de uso é um "índice gráfico" de casos de uso. Ele representa os atores de um sistema (como pequenos bonecos) e os casos de uso (como elipses). Em um diagrama de caso de uso pode ter também dois tipos de relacionamento: (1) ligando ator com caso de uso, que indicam que um ator participa de um determinado caso de uso; (2) ligando dois casos de uso, que indicam que um caso de uso inclui ou estende outro caso de uso.[1]
+&emsp;&emsp O diagrama de caso de uso é um "índice gráfico" de casos de uso. Ele representa os atores de um sistema (como pequenos bonecos) e os casos de uso (como elipses). Em um diagrama de caso de uso pode ter também dois tipos de relacionamento: (1) ligando ator com caso de uso, que indicam que um ator participa de um determinado caso de uso; (2) ligando dois casos de uso, que indicam que um caso de uso inclui ou estende outro caso de uso.[1]
 
 <br><br>
 
@@ -46,7 +47,7 @@ O diagrama de caso de uso é um "índice gráfico" de casos de uso. Ele represen
 <h4 align = "center"><img style="width: 100%" src="../assets/caso-uso/acompanha-uc.png"> Figura 05 - Caso de uso - Acompanhar investimento - Autoria Própria </h4>
 
 <h3>UC06- Caso de uso 06 - Resgatar investimento</h3>
-<h4 align = "center"><img style="width: 100%" src="../assets/caso-uso/resgatar-uc.png"> Figura 03 - Caso de uso - Resgatar investimento - Autoria Própria </h4>
+<h4 align = "center"><img style="width: 100%" src="../assets/caso-uso/resgatar-uc.png"> Figura 06 - Caso de uso - Resgatar investimento - Autoria Própria </h4>
 
 
 </div><br>
