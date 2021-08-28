@@ -34,3 +34,4 @@ nav:
         - MoSCoW: elicitacao/moscow.md
   - Modelagem:
       - Casos de Uso: casos_de_uso.md
+      - Cenários: modelagem/cenarios.md
