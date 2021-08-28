@@ -3,10 +3,11 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 19/08/2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Nilvan Peres |
-| 19/08/2021 |  0.2   | Revisão e correção da importação das imagens | João Pedro Chaves |
-| 20/08/2021 | 0.3 | Padronização das referências| Lucas Melo |
-| 21/08/2021 | 0.4 | Removendo referência duplicada e melhoria do objetivo | Nilvan Peres |
+| 19.08.2021 |  0.1   | Criação do documento e adição de personas, anti-persona | Nilvan Peres |
+| 19.08.2021 |  0.2   | Revisão e correção da importação das imagens | João Pedro Chaves |
+| 20.08.2021 | 0.3 | Padronização das referências| Lucas Melo |
+| 21.08.2021 | 0.4 | Removendo referência duplicada e melhoria do objetivo | Nilvan Peres |
+| 25.08.2021 | 0.5 | Correção da ordem das personas e melhoria na identificação | João Pedro Chaves |
 
 
 
@@ -37,7 +38,7 @@
 
 
 
-## 3.1. Persona 1
+## 3.1. Persona Primária 1
 
 || Luana Alves Guimaraes Cartens|
 |--|--|
@@ -53,40 +54,8 @@
 |<b>Requisitos:</b>|Para Luana, o ponto principal de aplicativo é se o mesmo é facil de utilizar, ela não gosta de perder tempo tendo que descobrir aonde ficam as funcionalides |
 |<b>Expectativas:</b>| Por estar almejando diversificar seus investimentos, ela visa o Tesouro Direto como uma boa oportunidade para angariar mais recursos, além de ser um investimento seguro, atende seu perfil de investidora|
 
-## 3.2. Persona 2
 
-|| João Kleber Pereira da Silva |
-|--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
-|<b>Idade:</b>|28 anos |
-|<b>Status:</b>| Anti-persona |
-|<b>Profissão:</b>| Engenheiro mecatrônico |
-|<b>Escolaridade:</b>| Superior completo |
-|<b>Objetivos:</b>| Deseja abrir seu proprio empreendimento, quer aposentar o mais cedo possível e viver apenas dos seus negócios, possui um perfil muito agressivo de investimento, está diposto a correr um alto risco desde que o retorno valha a pena|
-|<b>Habilidades:</b>| Possui uma curva aprendizado chocante, tem muita facilidade em absorver novos conhecimentos. É um exímio jogador de poker |
-|<b>Tarefas:</b>| Durante o período comercial está trabalhando como PJ, para alguma empresa que deseje implementar o sistema SAP. Durante seu tempo livro gostar de jogar Valorant e ler livros  |
-|<b>Relacionamentos:</b>| Noivo |
-|<b>Requisitos:</b>|Para João, o ponto principal de aplicativo é se o mesmo possui uma interface atrativa, odeio sistemas mal feitos ou mal desenhados.
-|<b>Expectativas:</b>| Por ter um perfil muito agressivo de investimento, não acredita que o Tesouro Direto seja a melhor opção para ele. Prefere passar um frio na barriga com rendas mais voláteis do que as rendas variáveis que o Tesouro Direto pode oferecer. |
-
-
-## 3.3. Persona 3
-
-|| Amanda Pereira Suzuki |
-|--|--|
-|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
-|<b>Idade:</b>|24 anos |
-|<b>Status:</b>| Persona secundária |
-|<b>Profissão:</b>| Estudante |
-|<b>Escolaridade:</b>| Superior incompleto |
-|<b>Objetivos:</b>| Deseja formar logo na faculdade, não aguenta mais a rotina da UnB, atualmente nem sabe em qual período do fluxo que ela se encontra. As vezes se pergunta se realmente vale a pena tudo isso por um diploma|
-|<b>Habilidades:</b>| Amanda é muito extrovertida, consegue cativar a maioria das pessoas quem tem contato. É muito sociável, adora sair com os amigos |
-|<b>Tarefas:</b>| Seu curso é integral, então durante a manhã e a tarde está nas aulas ou nas graminhas da faculdade. Seu hobby predileto é sair para comer|
-|<b>Relacionamentos:</b>| Solteira |
-|<b>Requisitos:</b>|Para Amanda, o ponto principal de aplicativo são as combinações das cores e tipografia das fontes, possui tick nervoso caso algo esteja desalinhado
-|<b>Expectativas:</b>| Amanda ainda não tem muito dinheiro, mas sabe que é importante investir para conseguir sua independência financeira, então espera que a partir de simuações do Tesouro Direto comece a entender melhor sobre investimentos|
-
-## 3.4. Persona 4
+## 3.2. Persona Primária 2
 
 || Emanoel Klenon Santillo|
 |--|--|
@@ -102,6 +71,40 @@
 |<b>Requisitos:</b>|Para Emanoel, o ponto principal de um aplicativo é se o mesmo é seguro, não gostar de sair colocando todos os seus dados pessoais para algo que não vai utilizar ou que parece não confiável|
 |<b>Expectativas:</b>| Por estar almejando sua própria clínica, ele deseja utilizar o app do Tesouro Direto para conseguir juntar mais capital. Entretanto, ele é uma pessoa ansiosa, e precisa entrar de tempo em tempo no app para saber como estão os rendimentos do seu capital alocado na renda variável|
 
+
+## 3.3. Persona Secundária
+
+|| Amanda Pereira Suzuki |
+|--|--|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona3.jpeg" width="200px"></p><p style="text-align: center">Figura 3 :Amanda Suzuki</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
+|<b>Idade:</b>|24 anos |
+|<b>Status:</b>| Persona secundária |
+|<b>Profissão:</b>| Estudante |
+|<b>Escolaridade:</b>| Superior incompleto |
+|<b>Objetivos:</b>| Deseja formar logo na faculdade, não aguenta mais a rotina da UnB, atualmente nem sabe em qual período do fluxo que ela se encontra. As vezes se pergunta se realmente vale a pena tudo isso por um diploma|
+|<b>Habilidades:</b>| Amanda é muito extrovertida, consegue cativar a maioria das pessoas quem tem contato. É muito sociável, adora sair com os amigos |
+|<b>Tarefas:</b>| Seu curso é integral, então durante a manhã e a tarde está nas aulas ou nas graminhas da faculdade. Seu hobby predileto é sair para comer|
+|<b>Relacionamentos:</b>| Solteira |
+|<b>Requisitos:</b>|Para Amanda, o ponto principal de aplicativo são as combinações das cores e tipografia das fontes, possui tick nervoso caso algo esteja desalinhado
+|<b>Expectativas:</b>| Amanda ainda não tem muito dinheiro, mas sabe que é importante investir para conseguir sua independência financeira, então espera que a partir de simuações do Tesouro Direto comece a entender melhor sobre investimentos|
+
+
+
+## 3.4. Anti-Persona
+
+|| João Kleber Pereira da Silva |
+|--|--|
+|<b>Foto:</b>|<p style="text-align: center"><img src="../assets/Persona2.jpeg" width="200px"></p><p style="text-align: center">Figura 1: João Kleber Pereira da Silva</p><p style="text-align: center">Fonte: This Person Does Not Exist [3]</p>|
+|<b>Idade:</b>|28 anos |
+|<b>Status:</b>| Anti-persona |
+|<b>Profissão:</b>| Engenheiro mecatrônico |
+|<b>Escolaridade:</b>| Superior completo |
+|<b>Objetivos:</b>| Deseja abrir seu proprio empreendimento, quer aposentar o mais cedo possível e viver apenas dos seus negócios, possui um perfil muito agressivo de investimento, está diposto a correr um alto risco desde que o retorno valha a pena|
+|<b>Habilidades:</b>| Possui uma curva aprendizado chocante, tem muita facilidade em absorver novos conhecimentos. É um exímio jogador de poker |
+|<b>Tarefas:</b>| Durante o período comercial está trabalhando como PJ, para alguma empresa que deseje implementar o sistema SAP. Durante seu tempo livro gostar de jogar Valorant e ler livros  |
+|<b>Relacionamentos:</b>| Noivo |
+|<b>Requisitos:</b>|Para João, o ponto principal de aplicativo é se o mesmo possui uma interface atrativa, odeio sistemas mal feitos ou mal desenhados.
+|<b>Expectativas:</b>| Por ter um perfil muito agressivo de investimento, não acredita que o Tesouro Direto seja a melhor opção para ele. Prefere passar um frio na barriga com rendas mais voláteis do que as rendas variáveis que o Tesouro Direto pode oferecer. |
 
 
 ### 4 Requisitos levantados
