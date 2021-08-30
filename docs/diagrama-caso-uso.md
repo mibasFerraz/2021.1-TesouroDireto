@@ -7,6 +7,7 @@
 | -- | -- | -- | -- |
 | 28.08.2021 | 0.1 | Criação do documento |Lucas Melo dos Santos|
 | 28.08.2021 | 0.2 | Correção de diagrama com verbos incorretos |Lucas Melo dos Santos|
+| 29.08.2021 | 0.2 | Revisão | João Pedro Chaves |
 
 ### Participantes
 
